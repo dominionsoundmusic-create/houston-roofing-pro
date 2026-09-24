@@ -1,0 +1,9 @@
+# redirects
+
+# Sep 24 2026 - templated city pages retired; each redirects to its service hub.
+/free-roof-inspection/*  /free-roof-inspection/  301
+/hail-damage-roof-repair/*  /hail-damage-roof-repair/  301
+/roof-leak-repair/*  /roof-leak-repair/  301
+/roof-repair/*  /roof-repair/  301
+/roof-replacement/*  /roof-replacement/  301
+/storm-damage-roof-repair/*  /storm-damage-roof-repair/  301
