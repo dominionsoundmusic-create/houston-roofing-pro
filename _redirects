@@ -7,3 +7,27 @@
 /roof-repair/*  /roof-repair/  301
 /roof-replacement/*  /roof-replacement/  301
 /storm-damage-roof-repair/*  /storm-damage-roof-repair/  301
+
+# Sep 25 2026 - automatic blog posts retired (templated). Each old post points to the closest real page.
+/blog/signs-you-need-a-new-roof-not-a-repair-1786192181891.html  /roof-replacement/  301
+/blog/signs-you-need-a-new-roof-not-a-repair-1786192181891  /roof-replacement/  301
+/blog/how-much-does-roof-replacement-cost-in-houston-1786970439753.html  /roof-replacement-cost  301
+/blog/how-much-does-roof-replacement-cost-in-houston-1786970439753  /roof-replacement-cost  301
+/blog/free-roof-inspections-what-they-should-include-1786023900788.html  /free-roof-inspection/  301
+/blog/free-roof-inspections-what-they-should-include-1786023900788  /free-roof-inspection/  301
+/blog/free-roof-inspections-what-they-should-include-1786366067797.html  /free-roof-inspection/  301
+/blog/free-roof-inspections-what-they-should-include-1786366067797  /free-roof-inspection/  301
+/blog/what-to-do-after-a-storm-damages-your-roof-1786278704467.html  /storm-damage-roof-repair/  301
+/blog/what-to-do-after-a-storm-damages-your-roof-1786278704467  /storm-damage-roof-repair/  301
+/blog/free-roof-inspections-what-they-should-include-1785937569942.html  /free-roof-inspection/  301
+/blog/free-roof-inspections-what-they-should-include-1785937569942  /free-roof-inspection/  301
+/blog/metal-roofing-vs-asphalt-shingles-which-lasts-longer-1785707492201.html  /roof-replacement/  301
+/blog/metal-roofing-vs-asphalt-shingles-which-lasts-longer-1785707492201  /roof-replacement/  301
+/blog/signs-you-need-a-new-roof-not-a-repair-1785851441039.html  /roof-replacement/  301
+/blog/signs-you-need-a-new-roof-not-a-repair-1785851441039  /roof-replacement/  301
+/blog/metal-roofing-vs-asphalt-shingles-which-lasts-longer-1786106633112.html  /roof-replacement/  301
+/blog/metal-roofing-vs-asphalt-shingles-which-lasts-longer-1786106633112  /roof-replacement/  301
+/blog/does-insurance-cover-storm-damage-to-your-roof-1786452385382.html  /hail-damage-roof-insurance  301
+/blog/does-insurance-cover-storm-damage-to-your-roof-1786452385382  /hail-damage-roof-insurance  301
+/blog/*  /  301
+/blog  /  301
