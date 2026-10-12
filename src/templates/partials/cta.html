@@ -1,0 +1,16 @@
+{% set b = site.business %}
+<section class="band band--navy cta" aria-labelledby="cta-title">
+  <div class="wide cta__grid">
+    <div class="cta__text">
+      <h2 id="cta-title">{{ page.cta_title | default('Roof trouble? Make one free call') }}</h2>
+      <p>{{ page.cta_text | default('Tell the automated assistant what the roof is doing and where you live. Your call is put through to an independent, locally owned roofing company in greater Houston, which looks at the roof and gives you its own price.') }}</p>
+      <p><a class="btn btn--orange btn--big" href="tel:{{ b.phone_tel }}">{{ site.cta.primary_label }}</a></p>
+    </div>
+    <ul class="cta__facts">
+      <li><strong>Answered at any hour</strong>An automated assistant picks up nights, weekends and the morning after a storm.</li>
+      <li><strong>Free to call</strong>The line never bills you. Any price comes from the roofing company, in writing.</li>
+      <li><strong>No state roofing license</strong>Texas does not license roofers, so ask for proof of insurance, a written contract and local references.</li>
+      <li><strong>You decide</strong>Hear what the roofer found, read the estimate, and hire only if it makes sense to you.</li>
+    </ul>
+  </div>
+</section>

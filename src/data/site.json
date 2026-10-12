@@ -1,0 +1,485 @@
+{
+ "business": {
+  "name": "Houston Expert Roofers",
+  "legal_name": "Dominion Digital Group",
+  "dba_note": "Houston Expert Roofers is a d/b/a of Dominion Digital Group.",
+  "category": "Roofing referral line for greater Houston",
+  "origin": "https://houstonexpertroofers.com",
+  "phone": "(832) 662-4107",
+  "email": "",
+  "address_public": false,
+  "hours": "The phone line is answered 24 hours a day, 7 days a week by an automated assistant.",
+  "logo": "/images/logo.svg",
+  "logo_width": 226,
+  "logo_height": 64,
+  "theme_color": "#1a1a2e",
+  "description": "A free phone line for roof leaks, storm damage, repairs and replacements across greater Houston. An automated assistant answers 24/7 and connects callers with an independent, locally owned roofing company.",
+  "short_disclosure": "Houston Expert Roofers is a free phone line, not a roofing contractor. It answers your call and connects you with an independent local roofing company, which inspects, quotes and does the work, and which you pay directly.",
+  "referral_disclosure": "Companies may pay a referral fee. The line never charges you.",
+  "quote_text": "I believe the unbelievable, I receive the impossible, because it's doable.",
+  "quote_author": "Jesse Duplantis",
+  "scripture": "John 3:16",
+  "copyright": "© 2026 Dominion Digital Group. All rights reserved.",
+  "credit_text": "Designed by Dominion Web Design Pro",
+  "credit_url": "https://dominionwebdesignpro.com",
+  "checklist_pdf": "/files/houston-hail-storm-claim-checklist.pdf"
+ },
+ "cta": {
+  "primary_label": "Call {phone}",
+  "secondary_label": "How the free line works",
+  "secondary_href": "/how-it-works/"
+ },
+ "analytics": {
+  "ga4": "G-KBRNTW0VQP",
+  "gtm": ""
+ },
+ "forms": {
+  "contact": "houston-roofing-contact",
+  "checklist": "houston-hail-checklist"
+ },
+ "social": {
+  "facebook": "",
+  "instagram": "",
+  "google_business": "",
+  "tiktok": ""
+ },
+ "nav": [
+  {
+   "label": "Services",
+   "menu": "services",
+   "href": "/services/"
+  },
+  {
+   "label": "Service Areas",
+   "menu": "areas",
+   "href": "/service-areas/"
+  },
+  {
+   "label": "Guides",
+   "menu": "guides"
+  },
+  {
+   "label": "How It Works",
+   "href": "/how-it-works/"
+  },
+  {
+   "label": "About",
+   "href": "/about/"
+  },
+  {
+   "label": "FAQ",
+   "href": "/faq/"
+  },
+  {
+   "label": "Contact",
+   "href": "/contact/"
+  }
+ ],
+ "footer_links": [
+  {
+   "label": "All Services",
+   "href": "/services/"
+  },
+  {
+   "label": "How It Works",
+   "href": "/how-it-works/"
+  },
+  {
+   "label": "Storm Claim Checklist",
+   "href": "/hail-claim-checklist/"
+  },
+  {
+   "label": "About",
+   "href": "/about/"
+  },
+  {
+   "label": "FAQ",
+   "href": "/faq/"
+  },
+  {
+   "label": "Contact",
+   "href": "/contact/"
+  },
+  {
+   "label": "Privacy Policy",
+   "href": "/privacy-policy.html"
+  },
+  {
+   "label": "Terms of Service",
+   "href": "/terms.html"
+  }
+ ],
+ "services": [
+  {
+   "slug": "roof-repair",
+   "url": "/roof-repair/",
+   "name": "Roof Repair in Houston",
+   "short": "Roof Repair",
+   "card_image": "roof-02-card.jpg",
+   "card_alt": "",
+   "summary": "Lifted shingles, cracked pipe boots, worn flashing and soft spots in the deck. When a targeted repair makes sense and what a written repair quote should list."
+  },
+  {
+   "slug": "roof-replacement",
+   "url": "/roof-replacement/",
+   "name": "Roof Replacement in Houston",
+   "short": "Roof Replacement",
+   "card_image": "roof-01-card.jpg",
+   "card_alt": "",
+   "summary": "Tear-off, decking, underlayment, flashing and ventilation. The signs a roof is finished, the permit question in your city, and the line items a quote must show."
+  },
+  {
+   "slug": "roof-leak-repair",
+   "url": "/roof-leak-repair/",
+   "name": "Roof Leak Repair",
+   "short": "Roof Leak Repair",
+   "card_image": "roof-05-card.jpg",
+   "card_alt": "",
+   "summary": "Why the drip is rarely under the hole, where Houston roofs usually let water in, and the safe things to do indoors while you wait for the roofer."
+  },
+  {
+   "slug": "storm-damage-roof-repair",
+   "url": "/storm-damage-roof-repair/",
+   "name": "Storm Damage Roof Repair",
+   "short": "Storm Damage",
+   "card_image": "roof-03-card.jpg",
+   "card_alt": "",
+   "summary": "Wind, falling limbs and tropical rain. What the derecho and Hurricane Beryl did to Houston roofs, and the order of things after a storm."
+  },
+  {
+   "slug": "hail-damage-roof-repair",
+   "url": "/hail-damage-roof-repair/",
+   "name": "Hail Damage Roof Repair",
+   "short": "Hail Damage",
+   "card_image": "hail-damage-shingles-closeup-houston.jpg",
+   "card_alt": "",
+   "summary": "Bruised shingles you cannot see from the driveway, the dented metal that gives hail away, and how a roofer decides between a repair and a new roof."
+  },
+  {
+   "slug": "roof-inspection",
+   "url": "/roof-inspection/",
+   "name": "Roof Inspection in Houston",
+   "short": "Roof Inspection",
+   "card_image": "roof-04-card.jpg",
+   "card_alt": "",
+   "summary": "What a thorough roof inspection covers, attic included, how it differs from a home inspection or an adjuster's visit, and what the report should show."
+  },
+  {
+   "slug": "emergency-roof-repair",
+   "url": "/roof-repair-emergency.html",
+   "name": "Emergency Roof Repair and Tarping",
+   "short": "Emergency Repair and Tarping",
+   "card_image": "emergency-roof-tarp-houston.jpg",
+   "card_alt": "",
+   "summary": "Water coming in or a tree on the roof. What counts as an emergency, what a proper tarp looks like, and the safe steps indoors until help arrives."
+  },
+  {
+   "slug": "commercial-roofing",
+   "url": "/commercial-roofing/",
+   "name": "Commercial Roofing in Houston",
+   "short": "Commercial Roofing",
+   "card_image": "roof-06-card.jpg",
+   "card_alt": "",
+   "summary": "TPO, modified bitumen, coatings and metal on Houston's low-slope business roofs, plus the permits, maintenance and drainage questions owners should ask."
+  },
+  {
+   "slug": "flat-roof-repair",
+   "url": "/flat-roof-repair/",
+   "name": "Flat Roof Repair",
+   "short": "Flat Roof Repair",
+   "card_image": "flat-roof-ponding-water-houston.jpg",
+   "card_alt": "",
+   "summary": "Ponding water, split seams and blistered membranes on flat and low-slope roofs, from garages and patio covers to small commercial buildings."
+  },
+  {
+   "slug": "metal-roofing",
+   "url": "/metal-roofing/",
+   "name": "Metal Roofing in Houston",
+   "short": "Metal Roofing",
+   "card_image": "metal-roof-standing-seam-houston-home.jpg",
+   "card_alt": "",
+   "summary": "Standing seam and exposed-fastener panels, heat, wind ratings, HOA rules and insurance questions for a metal roof on a Houston home or outbuilding."
+  },
+  {
+   "slug": "wind-damage-roof",
+   "url": "/wind-damage-roof.html",
+   "name": "Wind Damage Roof Repair",
+   "short": "Wind Damage",
+   "card_image": "wind-lifted-shingles-houston.jpg",
+   "card_alt": "",
+   "summary": "Broken seal strips and creased tabs that leave a roof looking fine from the street. Where wind gets a grip and how a roofer documents it."
+  },
+  {
+   "slug": "roof-flashing-repair",
+   "url": "/roof-flashing-repair.html",
+   "name": "Roof Flashing Repair",
+   "short": "Flashing Repair",
+   "card_image": "chimney-step-flashing-houston.jpg",
+   "card_alt": "",
+   "summary": "Where flashing goes on a roof, why chimneys, walls, skylights and valleys leak first, and what a proper flashing repair involves."
+  }
+ ],
+ "guides": [
+  {
+   "slug": "roof-replacement-cost",
+   "url": "/roof-replacement-cost.html",
+   "name": "Roof Replacement Cost in Houston",
+   "short": "Roof Replacement Cost",
+   "summary": "Published cost ranges with their sources, what moves a Houston quote up or down, and how to compare two itemized bids line by line."
+  },
+  {
+   "slug": "roof-insurance-claims-texas",
+   "url": "/hail-damage-roof-insurance.html",
+   "name": "Roof Insurance Claims in Texas",
+   "short": "Roof Insurance Claims",
+   "summary": "Hail and wind claims, percentage deductibles, actual cash value versus replacement cost, and what Texas law lets a roofer do and not do."
+  },
+  {
+   "slug": "texas-roofer-license",
+   "url": "/do-roofers-need-a-license-in-texas/",
+   "name": "Do Roofers Need a License in Texas?",
+   "short": "Checking a Roofer",
+   "summary": "Texas has no state roofing license. What you can check instead before you hire a roofer in greater Houston, and what belongs in the contract."
+  },
+  {
+   "slug": "roof-lifespan-houston",
+   "url": "/how-long-does-a-roof-last-in-houston/",
+   "name": "How Long Does a Roof Last in Houston?",
+   "short": "How Long Roofs Last",
+   "summary": "Typical lifespans by material, what Gulf Coast heat, humidity and wind do to them, and the signs that a roof is near the end."
+  },
+  {
+   "slug": "after-storm-damage",
+   "url": "/what-to-do-after-roof-storm-damage/",
+   "name": "What to Do After Storm Damage to Your Roof",
+   "short": "After a Storm",
+   "summary": "What counts as storm damage, the safe first steps in order, and how to avoid the door-knockers and contract traps that follow every Houston storm."
+  }
+ ],
+ "areas": [
+  {
+   "slug": "katy",
+   "name": "Katy",
+   "city": "Katy",
+   "url": "/roofing-companies-katy-tx/",
+   "county": "Harris, Fort Bend and Waller",
+   "summary": "A small city and a much bigger mailing address: permits inside city limits, HOA reviews in the master-planned communities, and roofs from the 2000s boom coming due."
+  },
+  {
+   "slug": "sugar-land",
+   "name": "Sugar Land",
+   "city": "Sugar Land",
+   "url": "/roofing-companies-sugar-land-tx/",
+   "county": "Fort Bend",
+   "summary": "A city that permits and inspects roof replacements, including in Greatwood and New Territory since annexation, with HOA approval first."
+  },
+  {
+   "slug": "cypress",
+   "name": "Cypress",
+   "city": "Cypress",
+   "url": "/roofing-companies-cypress-tx/",
+   "county": "Harris",
+   "summary": "Unincorporated northwest Harris County with no city building department, so the contract and photos are your record of the work."
+  },
+  {
+   "slug": "the-woodlands",
+   "name": "The Woodlands",
+   "city": "The Woodlands",
+   "url": "/roofing-companies-the-woodlands-tx/",
+   "county": "Montgomery and Harris",
+   "summary": "Township covenants require approval before a roof replacement, and the forest canopy keeps shaded roofs damp."
+  },
+  {
+   "slug": "spring",
+   "name": "Spring",
+   "city": "Spring",
+   "url": "/roofing-companies-spring-tx/",
+   "county": "Harris and Montgomery",
+   "summary": "Older neighborhoods north of FM 1960 where a former shake roof can mean a new solid deck before shingles go on."
+  },
+  {
+   "slug": "pearland",
+   "name": "Pearland",
+   "city": "Pearland",
+   "url": "/roofing-pearland-tx/",
+   "county": "Brazoria, Harris and Fort Bend",
+   "summary": "Mostly in Brazoria County, a coastal windstorm county, so a re-roof there may need a TDI inspection for TWIA eligibility."
+  },
+  {
+   "slug": "league-city",
+   "name": "League City",
+   "city": "League City",
+   "url": "/league-city-roofing-company/",
+   "county": "Galveston",
+   "summary": "Galveston County is in the TDI catastrophe area: city permit, HOA approval and a windstorm inspection on a new roof."
+  },
+  {
+   "slug": "pasadena",
+   "name": "Pasadena",
+   "city": "Pasadena",
+   "url": "/pasadena-roofing-contractors/",
+   "county": "Harris",
+   "summary": "Older housing near the Ship Channel, and a strip east of State Highway 146 that sits in the coastal windstorm area."
+  },
+  {
+   "slug": "conroe",
+   "name": "Conroe",
+   "city": "Conroe",
+   "url": "/conroe-roofer/",
+   "county": "Montgomery",
+   "summary": "Pine country north of Houston where the city's re-roof permit rule turns on the decking, and limbs and needles wear roofs down."
+  },
+  {
+   "slug": "humble",
+   "name": "Humble",
+   "city": "Humble",
+   "url": "/humble-roofing/",
+   "county": "Harris",
+   "summary": "A small city inside a large mailing address near Lake Houston, where permit rules depend on which side of the city line you live on."
+  },
+  {
+   "slug": "kingwood",
+   "name": "Kingwood",
+   "city": "Kingwood",
+   "url": "/roofing-kingwood-tx/",
+   "county": "Harris and Montgomery",
+   "summary": "Part of the City of Houston since 1996, so re-roofs need a Houston permit as well as village association approval."
+  },
+  {
+   "slug": "tomball",
+   "name": "Tomball",
+   "city": "Tomball",
+   "url": "/roofing-company-tomball-tx/",
+   "county": "Harris and Montgomery",
+   "summary": "A railroad town with acreage around it: city roofing permits inside the limits, and houses with metal-roofed barns outside them."
+  },
+  {
+   "slug": "missouri-city",
+   "name": "Missouri City",
+   "city": "Missouri City",
+   "url": "/roofing-company-missouri-city/",
+   "county": "Fort Bend and Harris",
+   "summary": "Its own permit division, older homes around Quail Valley and newer, more complex rooflines in Sienna."
+  },
+  {
+   "slug": "richmond",
+   "name": "Richmond",
+   "city": "Richmond",
+   "url": "/roofing-companies-richmond-tx/",
+   "county": "Fort Bend",
+   "summary": "The historic county seat on the Brazos, surrounded by large unincorporated communities with a Richmond address."
+  },
+  {
+   "slug": "friendswood",
+   "name": "Friendswood",
+   "city": "Friendswood",
+   "url": "/friendswood-roofing/",
+   "county": "Galveston and Harris",
+   "summary": "Mostly in Galveston County, so a new roof on that side needs the TDI windstorm inspection and certificate."
+  },
+  {
+   "slug": "baytown",
+   "name": "Baytown",
+   "city": "Baytown",
+   "url": "/baytown-roofing/",
+   "county": "Harris and Chambers",
+   "summary": "A city split between Harris County and Chambers County, which is a coastal windstorm county, on Galveston Bay."
+  },
+  {
+   "slug": "atascocita",
+   "name": "Atascocita",
+   "city": "Atascocita",
+   "url": "/roofing-atascocita-tx/",
+   "county": "Harris",
+   "summary": "An unincorporated community on the west shore of Lake Houston with a Humble mailing address and master-planned neighborhoods."
+  },
+  {
+   "slug": "galveston",
+   "name": "Galveston",
+   "city": "Galveston",
+   "url": "/roofing-galveston-tx/",
+   "county": "Galveston",
+   "summary": "The island city, where salt air, hurricanes and the TDI windstorm program shape every roof decision."
+  },
+  {
+   "slug": "magnolia",
+   "name": "Magnolia",
+   "city": "Magnolia",
+   "url": "/roofing-magnolia-tx/",
+   "county": "Montgomery",
+   "summary": "Wooded acreage and fast-growing subdivisions in west Montgomery County, under tall pines."
+  },
+  {
+   "slug": "rosenberg",
+   "name": "Rosenberg",
+   "city": "Rosenberg",
+   "url": "/roofing-rosenberg-tx/",
+   "county": "Fort Bend",
+   "summary": "A Fort Bend city on the Brazos with older homes near downtown and new subdivisions along the Grand Parkway area."
+  },
+  {
+   "slug": "webster",
+   "name": "Webster",
+   "city": "Webster",
+   "url": "/roofing-webster-tx/",
+   "county": "Harris",
+   "summary": "A small Clear Lake area city near NASA's Johnson Space Center, inside Harris County and close to the bay."
+  },
+  {
+   "slug": "alvin",
+   "name": "Alvin",
+   "city": "Alvin",
+   "url": "/roofing-alvin-tx/",
+   "county": "Brazoria",
+   "summary": "A Brazoria County city south of Pearland, inside the TDI coastal windstorm area."
+  },
+  {
+   "slug": "la-porte",
+   "name": "La Porte",
+   "city": "La Porte",
+   "url": "/roofing-la-porte-tx/",
+   "county": "Harris",
+   "summary": "A bayfront city in Harris County that sits in the coastal catastrophe area, with Sylvan Beach and older homes near the water."
+  },
+  {
+   "slug": "seabrook",
+   "name": "Seabrook",
+   "city": "Seabrook",
+   "url": "/roofing-seabrook-tx/",
+   "county": "Harris",
+   "summary": "A small waterfront city on Galveston Bay and Clear Lake, in the coastal windstorm area, with surge history from Hurricane Ike."
+  },
+  {
+   "slug": "deer-park",
+   "name": "Deer Park",
+   "city": "Deer Park",
+   "url": "/roofing-deer-park-tx/",
+   "county": "Harris",
+   "summary": "A Harris County city by the Houston Ship Channel with a large stock of homes from the 1950s through the 1980s."
+  },
+  {
+   "slug": "stafford",
+   "name": "Stafford",
+   "city": "Stafford",
+   "url": "/roofing-stafford-tx/",
+   "county": "Fort Bend and Harris",
+   "summary": "A small Fort Bend County city between Sugar Land and Missouri City with its own building permits."
+  },
+  {
+   "slug": "channelview",
+   "name": "Channelview",
+   "city": "Channelview",
+   "url": "/roofing-channelview-tx/",
+   "county": "Harris",
+   "summary": "An unincorporated community on the San Jacinto River and the Ship Channel, east of Houston, with older and newer housing side by side."
+  },
+  {
+   "slug": "texas-city",
+   "name": "Texas City",
+   "city": "Texas City",
+   "url": "/roofing-texas-city-tx/",
+   "county": "Galveston",
+   "summary": "A Galveston County city on the bay behind its hurricane levee, inside the TDI windstorm catastrophe area."
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+# redirects (Playbook 2.0 rebuild, Oct 12 2026)
+# Every rule from the old _redirects is kept. Targets now point at the new canonical URLs
+# (the .html pages keep their .html URLs). Netlify serves an existing file before a rule without "!",
+# so these wildcards never hide a real page.
+
+# Oct 12 2026 - the old "free roof inspection" page becomes /roof-inspection/ ("free inspection" is a
+# phrase the site no longer uses: many roofers inspect at no charge, and callers confirm that on the call).
+/free-roof-inspection/  /roof-inspection/  301
+/free-roof-inspection  /roof-inspection/  301
+
+# Sep 24 2026 - templated city pages retired; each redirects to its service hub.
+/free-roof-inspection/*  /roof-inspection/  301
+/hail-damage-roof-repair/*  /hail-damage-roof-repair/  301
+/roof-leak-repair/*  /roof-leak-repair/  301
+/roof-repair/*  /roof-repair/  301
+/roof-replacement/*  /roof-replacement/  301
+/storm-damage-roof-repair/*  /storm-damage-roof-repair/  301
+
+# Sep 25 2026 - automatic blog posts retired (templated). Each old post points to the closest real page.
+/blog/signs-you-need-a-new-roof-not-a-repair-1786192181891.html  /roof-replacement/  301
+/blog/signs-you-need-a-new-roof-not-a-repair-1786192181891  /roof-replacement/  301
+/blog/how-much-does-roof-replacement-cost-in-houston-1786970439753.html  /roof-replacement-cost.html  301
+/blog/how-much-does-roof-replacement-cost-in-houston-1786970439753  /roof-replacement-cost.html  301
+/blog/free-roof-inspections-what-they-should-include-1786023900788.html  /roof-inspection/  301
+/blog/free-roof-inspections-what-they-should-include-1786023900788  /roof-inspection/  301
+/blog/free-roof-inspections-what-they-should-include-1786366067797.html  /roof-inspection/  301
+/blog/free-roof-inspections-what-they-should-include-1786366067797  /roof-inspection/  301
+/blog/what-to-do-after-a-storm-damages-your-roof-1786278704467.html  /what-to-do-after-roof-storm-damage/  301
+/blog/what-to-do-after-a-storm-damages-your-roof-1786278704467  /what-to-do-after-roof-storm-damage/  301
+/blog/free-roof-inspections-what-they-should-include-1785937569942.html  /roof-inspection/  301
+/blog/free-roof-inspections-what-they-should-include-1785937569942  /roof-inspection/  301
+/blog/metal-roofing-vs-asphalt-shingles-which-lasts-longer-1785707492201.html  /metal-roofing/  301
+/blog/metal-roofing-vs-asphalt-shingles-which-lasts-longer-1785707492201  /metal-roofing/  301
+/blog/signs-you-need-a-new-roof-not-a-repair-1785851441039.html  /roof-replacement/  301
+/blog/signs-you-need-a-new-roof-not-a-repair-1785851441039  /roof-replacement/  301
+/blog/metal-roofing-vs-asphalt-shingles-which-lasts-longer-1786106633112.html  /metal-roofing/  301
+/blog/metal-roofing-vs-asphalt-shingles-which-lasts-longer-1786106633112  /metal-roofing/  301
+/blog/does-insurance-cover-storm-damage-to-your-roof-1786452385382.html  /hail-damage-roof-insurance.html  301
+/blog/does-insurance-cover-storm-damage-to-your-roof-1786452385382  /hail-damage-roof-insurance.html  301
+/blog/*  /  301
+/blog  /  301
