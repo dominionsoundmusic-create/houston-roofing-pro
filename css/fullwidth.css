@@ -1,0 +1,29 @@
+/* Oct 12 2026: Maurice's standing layout rules, applied on top of each page's own styles.
+   Text, photos and cards share one left and right edge (the rail) with the header and the bands,
+   plain sections are pure white, and no eyebrow labels sit above headings. */
+:root { --rail: clamp(22px, 5.5vw, 140px); --cream: #ffffff; }
+body { background: #ffffff !important; }
+html, body { overflow-x: hidden; }
+
+/* home page */
+nav, .hero, .stats-bar, section, .cta-section, footer { padding-left: var(--rail) !important; padding-right: var(--rail) !important; }
+.section-inner, .faq-list, .section-body, .hero-sub { max-width: none !important; margin-left: 0 !important; margin-right: 0 !important; }
+.cta-section { text-align: left !important; }
+.cta-section p { max-width: none !important; margin-left: 0 !important; }
+.eyebrow { display: none !important; }
+.services-grid { grid-template-columns: repeat(3, 1fr) !important; }
+@media (max-width: 1000px) { .services-grid { grid-template-columns: repeat(2, 1fr) !important; } }
+@media (max-width: 640px) { .services-grid { grid-template-columns: 1fr !important; } }
+.areas-grid { grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)) !important; }
+
+/* inner pages */
+.hhero { padding-left: var(--rail) !important; padding-right: var(--rail) !important; }
+.hhero-in { max-width: none !important; margin: 0 !important; }
+.hhero-in h1, .hhero-in p, .hhero p { max-width: 62ch !important; }
+.wrap, footer .fi, .bar-inner { max-width: none !important; margin-left: 0 !important; margin-right: 0 !important; padding-left: var(--rail) !important; padding-right: var(--rail) !important; }
+.wrap p, .wrap li, p, li, .lede, table, .qa details, .wrap figure { max-width: none !important; }
+.phero, .wrap figure { max-width: 100% !important; }
+.phero, .wrap figure img { width: 100% !important; max-height: 560px; object-fit: cover; }
+table { width: 100% !important; }
+header { padding-left: var(--rail) !important; padding-right: var(--rail) !important; }
+.hero-sub { max-width: 60ch !important; }
