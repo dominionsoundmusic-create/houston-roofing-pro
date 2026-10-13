@@ -73,7 +73,7 @@ def load(dist):
 
 # 8-word runs that are only proper names (agencies, the owner company, statutes) cannot be reworded, nor can
 # the referral disclosure INTAKE.md prescribes ("... is a free phone line, not a roofing contractor").
-NAMES = ("is a free phone line not a", "free phone line not a roofing", "a free phone line not a", "d b a", "dominion digital", "all rights reserved", "privacy policy", "the line is a free phone line", "independent local")
+NAMES = ("business and commerce code", "texas department of insurance", "insurance code section", "is a free phone line not a", "free phone line not a roofing", "a free phone line not a", "d b a", "dominion digital", "all rights reserved", "privacy policy", "the line is a free phone line", "independent local")
 
 
 def runs8(words):
