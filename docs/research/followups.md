@@ -29,3 +29,6 @@ WebFetch/curl cannot reach outside sites here. These items need search budget in
 - t7: Deer Park (City permit office, roofing permit or registration, housing age, neighborhoods) and
   Channelview (neighborhoods, housing age) need a research pass. Unverified and left off: NWS 90 to 100 mph
   derecho gusts in Baytown; Pasadena's own 1996 request; Ike damage on the east sides of Pasadena and Baytown.
+- Electric utility per town: m.safety_box() defaults to CenterPoint Energy; pages may pass utility='...'.
+  Fact-check each town's utility (Entergy Texas in The Woodlands and Conroe; TNMP is a lead for Galveston,
+  Texas City, League City, Friendswood; check Kingwood, Magnolia, Alvin, Pearland).
