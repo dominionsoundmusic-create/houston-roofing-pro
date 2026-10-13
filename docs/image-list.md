@@ -13,231 +13,141 @@ ranch and two-story houses, asphalt shingle, metal and flat roofs, live oaks and
 natural daylight, no text, no logos, no watermarks, no recognizable faces. Every prompt starts
 with: wide cinematic landscape shot, subject positioned on right third of frame, well lit.
 
-Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images at 1200x800).
+Total: 129 images (34 heroes at 1920x1080 listed first, then 95 in-body images at 1200x800).
 
 | # | File name | Size | Page |
 |---:|---|---|---|
-| 1 | houston-neighborhood-roofs-morning-hero.jpg | 1920x1080 | /about/ |
-| 2 | baytown-bayfront-home-shingle-roof-hero.jpg | 1920x1080 | /baytown-roofing/ |
-| 3 | conroe-lake-area-brick-home-roof-hero.jpg | 1920x1080 | /conroe-roofer/ |
-| 4 | houston-home-office-phone-and-notes-hero.jpg | 1920x1080 | /contact/ |
-| 5 | checking-a-roofer-houston-hero.jpg | 1920x1080 | /do-roofers-need-a-license-in-texas/ |
-| 6 | flat-roof-ponding-water-houston.jpg | 1920x1080 | /flat-roof-repair/ |
-| 7 | friendswood-wooded-street-shingle-roof-hero.jpg | 1920x1080 | /friendswood-roofing/ |
-| 8 | hail-on-lawn-after-storm-houston-hero.jpg | 1920x1080 | /hail-claim-checklist/ |
-| 9 | roof-insurance-claim-houston-hero.jpg | 1920x1080 | /hail-damage-roof-insurance.html |
-| 10 | hail-damage-shingles-closeup-houston.jpg | 1920x1080 | /hail-damage-roof-repair/ |
-| 11 | homeowner-phone-call-front-porch-houston-hero.jpg | 1920x1080 | /how-it-works/ |
-| 12 | how-long-roof-lasts-houston-hero.jpg | 1920x1080 | /how-long-does-a-roof-last-in-houston/ |
-| 13 | humble-main-street-area-home-roof-hero.jpg | 1920x1080 | /humble-roofing/ |
-| 14 | league-city-two-story-brick-home-new-roof-hero.jpg | 1920x1080 | /league-city-roofing-company/ |
-| 15 | metal-roof-standing-seam-houston-home.jpg | 1920x1080 | /metal-roofing/ |
-| 16 | pasadena-brick-ranch-home-roof-hero.jpg | 1920x1080 | /pasadena-roofing-contractors/ |
-| 17 | chimney-step-flashing-houston.jpg | 1920x1080 | /roof-flashing-repair.html |
-| 18 | emergency-roof-tarp-houston.jpg | 1920x1080 | /roof-repair-emergency.html |
-| 19 | roof-replacement-cost-houston-hero.jpg | 1920x1080 | /roof-replacement-cost.html |
-| 20 | alvin-country-home-metal-roof-pasture-hero.jpg | 1920x1080 | /roofing-alvin-tx/ |
-| 21 | atascocita-two-story-brick-home-roof-hero.jpg | 1920x1080 | /roofing-atascocita-tx/ |
-| 22 | channelview-home-pines-shingle-roof-hero.jpg | 1920x1080 | /roofing-channelview-tx/ |
-| 23 | cypress-lakeside-two-story-home-shingle-roof-hero.jpg | 1920x1080 | /roofing-companies-cypress-tx/ |
-| 24 | katy-two-story-brick-home-architectural-shingle-roof-hero.jpg | 1920x1080 | /roofing-companies-katy-tx/ |
-| 25 | richmond-tx-craftsman-home-brazos-oaks-roof-hero.jpg | 1920x1080 | /roofing-companies-richmond-tx/ |
-| 26 | spring-wooded-ranch-home-shingle-roof-hero.jpg | 1920x1080 | /roofing-companies-spring-tx/ |
-| 27 | sugar-land-two-story-brick-home-new-roof-hero.jpg | 1920x1080 | /roofing-companies-sugar-land-tx/ |
-| 28 | the-woodlands-forest-home-roof-hero.jpg | 1920x1080 | /roofing-companies-the-woodlands-tx/ |
-| 29 | missouri-city-ranch-home-golf-course-roof-hero.jpg | 1920x1080 | /roofing-company-missouri-city/ |
-| 30 | tomball-old-town-brick-home-roof-hero.jpg | 1920x1080 | /roofing-company-tomball-tx/ |
-| 31 | deer-park-brick-ranch-roof-repair-hero.jpg | 1920x1080 | /roofing-deer-park-tx/ |
-| 32 | galveston-raised-beach-house-metal-roof-hero.jpg | 1920x1080 | /roofing-galveston-tx/ |
-| 33 | kingwood-two-story-home-pine-canopy-roof-hero.jpg | 1920x1080 | /roofing-kingwood-tx/ |
-| 34 | la-porte-bayfront-cottage-shingle-roof-hero.jpg | 1920x1080 | /roofing-la-porte-tx/ |
-| 35 | magnolia-acreage-farmhouse-roof-hero.jpg | 1920x1080 | /roofing-magnolia-tx/ |
-| 36 | pearland-two-story-home-new-roof-gulf-sky-hero.jpg | 1920x1080 | /roofing-pearland-tx/ |
-| 37 | rosenberg-tx-brick-home-new-roof-railroad-town-hero.jpg | 1920x1080 | /roofing-rosenberg-tx/ |
-| 38 | seabrook-raised-bayfront-home-metal-roof-hero.jpg | 1920x1080 | /roofing-seabrook-tx/ |
-| 39 | stafford-brick-ranch-home-new-shingle-roof-hero.jpg | 1920x1080 | /roofing-stafford-tx/ |
-| 40 | texas-city-brick-ranch-home-bay-sky-hero.jpg | 1920x1080 | /roofing-texas-city-tx/ |
-| 41 | webster-two-story-home-hip-roof-hero.jpg | 1920x1080 | /roofing-webster-tx/ |
-| 42 | greater-houston-suburb-rooftops-aerial-hero.jpg | 1920x1080 | /service-areas/ |
-| 43 | after-storm-roof-damage-houston-hero.jpg | 1920x1080 | /what-to-do-after-roof-storm-damage/ |
-| 44 | wind-lifted-shingles-houston.jpg | 1920x1080 | /wind-damage-roof.html |
-| 45 | houston-storm-clouds-over-suburban-roofs.jpg | 1200x800 | / |
-| 46 | houston-two-story-home-shingle-roof.jpg | 1200x800 | / |
-| 47 | houston-home-roof-from-street-afternoon.jpg | 1200x800 | /about/ |
-| 48 | baytown-older-home-shingle-roof-live-oak.jpg | 1200x800 | /baytown-roofing/ |
-| 49 | baytown-roofers-storm-repair-shingles.jpg | 1200x800 | /baytown-roofing/ |
-| 50 | houston-office-building-roof-coating.jpg | 1200x800 | /commercial-roofing/ |
-| 51 | houston-strip-center-low-slope-roof.jpg | 1200x800 | /commercial-roofing/ |
-| 52 | houston-warehouse-roof-drain-scupper.jpg | 1200x800 | /commercial-roofing/ |
-| 53 | conroe-new-subdivision-roof-row.jpg | 1200x800 | /conroe-roofer/ |
-| 54 | conroe-older-frame-house-new-roof.jpg | 1200x800 | /conroe-roofer/ |
-| 55 | houston-roofer-ladder-at-gutter-inspection.jpg | 1200x800 | /contact/ |
-| 56 | houston-attic-hatch-cleared-for-roofer.jpg | 1200x800 | /contact/thanks/ |
-| 57 | door-knock-after-storm-houston.jpg | 1200x800 | /do-roofers-need-a-license-in-texas/ |
-| 58 | houston-street-new-roofs-after-storm.jpg | 1200x800 | /do-roofers-need-a-license-in-texas/ |
-| 59 | roofing-contract-kitchen-table-houston.jpg | 1200x800 | /do-roofers-need-a-license-in-texas/ |
-| 60 | houston-homeowner-checking-roof-from-yard.jpg | 1200x800 | /faq/ |
-| 61 | houston-garage-flat-roof-new-membrane.jpg | 1200x800 | /flat-roof-repair/ |
-| 62 | houston-modern-home-flat-roof-scupper.jpg | 1200x800 | /flat-roof-repair/ |
-| 63 | friendswood-county-line-neighborhood-roofs.jpg | 1200x800 | /friendswood-roofing/ |
-| 64 | houston-dented-gutter-hail-marks.jpg | 1200x800 | /hail-claim-checklist/ |
-| 65 | houston-printed-checklist-on-fridge.jpg | 1200x800 | /hail-claim-checklist/thanks/ |
-| 66 | houston-hail-dented-gutter-closeup.jpg | 1200x800 | /hail-damage-roof-insurance.html |
-| 67 | houston-insurance-adjuster-roof-visit.jpg | 1200x800 | /hail-damage-roof-insurance.html |
-| 68 | houston-hail-dented-gutter-ac-unit.jpg | 1200x800 | /hail-damage-roof-repair/ |
-| 69 | houston-homeowner-reading-roof-contract.jpg | 1200x800 | /how-it-works/ |
-| 70 | phone-showing-call-screen-kitchen-counter.jpg | 1200x800 | /how-it-works/ |
-| 71 | houston-attic-hot-roof-deck.jpg | 1200x800 | /how-long-does-a-roof-last-in-houston/ |
-| 72 | houston-soffit-ridge-vent-roof.jpg | 1200x800 | /how-long-does-a-roof-last-in-houston/ |
-| 73 | humble-older-frame-home-new-roof.jpg | 1200x800 | /humble-roofing/ |
-| 74 | humble-west-fork-pines-shingle-roofs.jpg | 1200x800 | /humble-roofing/ |
-| 75 | league-city-roof-repair-small-patch-ranch-home.jpg | 1200x800 | /league-city-roofing-company/ |
-| 76 | houston-acreage-barn-metal-roof.jpg | 1200x800 | /metal-roofing/ |
-| 77 | houston-carport-metal-roof-fasteners.jpg | 1200x800 | /metal-roofing/ |
-| 78 | houston-metal-roof-after-hailstorm.jpg | 1200x800 | /metal-roofing/ |
-| 79 | pasadena-ranch-home-new-shingle-roof.jpg | 1200x800 | /pasadena-roofing-contractors/ |
-| 80 | pasadena-roofer-replacing-decking-tear-off.jpg | 1200x800 | /pasadena-roofing-contractors/ |
-| 81 | houston-roof-wall-kickout-flashing.jpg | 1200x800 | /roof-flashing-repair.html |
-| 82 | houston-attic-roof-decking-inspection.jpg | 1200x800 | /roof-inspection/ |
-| 83 | houston-attic-air-handler-drain-pan.jpg | 1200x800 | /roof-leak-repair/ |
-| 84 | houston-ceiling-water-stain-bucket.jpg | 1200x800 | /roof-leak-repair/, /services/ |
-| 85 | houston-ceiling-leak-bucket-living-room.jpg | 1200x800 | /roof-repair-emergency.html |
-| 86 | houston-brick-home-roof-repair-patch.jpg | 1200x800 | /roof-repair/ |
-| 87 | houston-ranch-home-roof-measuring.jpg | 1200x800 | /roof-replacement-cost.html |
-| 88 | houston-roof-tear-off-decking.jpg | 1200x800 | /roof-replacement-cost.html |
-| 89 | houston-reroof-tear-off-trailer-driveway.jpg | 1200x800 | /roof-replacement/ |
-| 90 | houston-two-story-home-new-architectural-shingle-roof.jpg | 1200x800 | /roof-replacement/ |
-| 91 | alvin-storm-clouds-over-farm-house-roof.jpg | 1200x800 | /roofing-alvin-tx/ |
-| 92 | alvin-subdivision-two-story-shingle-roof.jpg | 1200x800 | /roofing-alvin-tx/ |
-| 93 | atascocita-lake-houston-shore-homes.jpg | 1200x800 | /roofing-atascocita-tx/ |
-| 94 | atascocita-roof-repair-step-flashing.jpg | 1200x800 | /roofing-atascocita-tx/ |
-| 95 | channelview-carpenters-bayou-homes-after-storm.jpg | 1200x800 | /roofing-channelview-tx/ |
-| 96 | channelview-ranch-home-roof-pine-needles.jpg | 1200x800 | /roofing-channelview-tx/ |
-| 97 | cypress-bridgeland-new-home-roofline-lake.jpg | 1200x800 | /roofing-companies-cypress-tx/ |
-| 98 | cypress-copperfield-era-brick-ranch-roof.jpg | 1200x800 | /roofing-companies-cypress-tx/ |
-| 99 | katy-new-subdivision-street-shingle-roofs.jpg | 1200x800 | /roofing-companies-katy-tx/ |
-| 100 | katy-roofer-checking-flashing-two-story-home.jpg | 1200x800 | /roofing-companies-katy-tx/ |
-| 101 | richmond-tx-historic-street-older-homes-roofs.jpg | 1200x800 | /roofing-companies-richmond-tx/ |
-| 102 | richmond-tx-pecan-grove-two-story-home-roof.jpg | 1200x800 | /roofing-companies-richmond-tx/ |
-| 103 | spring-attic-spaced-board-decking.jpg | 1200x800 | /roofing-companies-spring-tx/ |
-| 104 | spring-klein-street-roof-repair-after-tornado.jpg | 1200x800 | /roofing-companies-spring-tx/ |
-| 105 | sugar-land-first-colony-street-roofs.jpg | 1200x800 | /roofing-companies-sugar-land-tx/ |
-| 106 | sugar-land-greatwood-home-architectural-shingles.jpg | 1200x800 | /roofing-companies-sugar-land-tx/ |
-| 107 | the-woodlands-greenbelt-roofline-canopy.jpg | 1200x800 | /roofing-companies-the-woodlands-tx/ |
-| 108 | the-woodlands-older-village-home-reroof.jpg | 1200x800 | /roofing-companies-the-woodlands-tx/ |
-| 109 | missouri-city-quail-valley-brick-homes-roofs.jpg | 1200x800 | /roofing-company-missouri-city/ |
-| 110 | missouri-city-sienna-two-story-home-complex-roof.jpg | 1200x800 | /roofing-company-missouri-city/ |
-| 111 | tomball-acreage-home-metal-barn-roof.jpg | 1200x800 | /roofing-company-tomball-tx/ |
-| 112 | tomball-roofer-tearoff-older-home.jpg | 1200x800 | /roofing-company-tomball-tx/ |
-| 113 | deer-park-ceiling-stain-bucket-leak.jpg | 1200x800 | /roofing-deer-park-tx/ |
-| 114 | deer-park-roofer-replacing-pipe-boot.jpg | 1200x800 | /roofing-deer-park-tx/ |
-| 115 | galveston-east-end-victorian-home-roof.jpg | 1200x800 | /roofing-galveston-tx/ |
-| 116 | galveston-roofer-fastening-underlayment-coastal-home.jpg | 1200x800 | /roofing-galveston-tx/ |
-| 117 | kingwood-pine-needles-roof-valley.jpg | 1200x800 | /roofing-kingwood-tx/ |
-| 118 | la-porte-oak-limb-on-shingle-roof-after-storm.jpg | 1200x800 | /roofing-la-porte-tx/ |
-| 119 | la-porte-ranch-home-oak-shingle-roof.jpg | 1200x800 | /roofing-la-porte-tx/ |
-| 120 | magnolia-new-subdivision-roofs-fm-1488.jpg | 1200x800 | /roofing-magnolia-tx/ |
-| 121 | magnolia-roofer-metal-porch-roof.jpg | 1200x800 | /roofing-magnolia-tx/ |
-| 122 | pearland-roofer-nailing-underlayment-windstorm.jpg | 1200x800 | /roofing-pearland-tx/ |
-| 123 | pearland-shadow-creek-street-new-roofs.jpg | 1200x800 | /roofing-pearland-tx/ |
-| 124 | rosenberg-tx-downtown-historic-buildings-roofs.jpg | 1200x800 | /roofing-rosenberg-tx/ |
-| 125 | rosenberg-tx-new-subdivision-homes-shingle-roofs.jpg | 1200x800 | /roofing-rosenberg-tx/ |
-| 126 | seabrook-waterfront-street-coastal-roofs.jpg | 1200x800 | /roofing-seabrook-tx/ |
-| 127 | stafford-1970s-brick-homes-street-roofs.jpg | 1200x800 | /roofing-stafford-tx/ |
-| 128 | stafford-reroof-crew-tear-off-ranch-home.jpg | 1200x800 | /roofing-stafford-tx/ |
-| 129 | texas-city-bay-street-homes-shingle-roofs.jpg | 1200x800 | /roofing-texas-city-tx/ |
-| 130 | texas-city-storm-cleanup-shingles-yard.jpg | 1200x800 | /roofing-texas-city-tx/ |
-| 131 | webster-clear-lake-area-homes-roofs.jpg | 1200x800 | /roofing-webster-tx/ |
-| 132 | galveston-county-raised-home-metal-roof.jpg | 1200x800 | /service-areas/ |
-| 133 | houston-suburb-street-shingle-roofs.jpg | 1200x800 | /service-areas/ |
-| 134 | houston-roofer-reviewing-estimate-with-homeowner.jpg | 1200x800 | /services/ |
-| 135 | houston-live-oak-limb-on-roof-after-storm.jpg | 1200x800 | /storm-damage-roof-repair/ |
-| 136 | roofer-attic-inspection-after-storm-houston.jpg | 1200x800 | /what-to-do-after-roof-storm-damage/ |
-| 137 | storm-damage-photos-from-yard-houston.jpg | 1200x800 | /what-to-do-after-roof-storm-damage/ |
-| 138 | storm-lifted-shingles-houston-ranch.jpg | 1200x800 | /what-to-do-after-roof-storm-damage/ |
-| 139 | houston-two-story-home-ridge-caps-after-wind.jpg | 1200x800 | /wind-damage-roof.html |
+| 1 | homeowner-phone-call-front-porch-houston-hero.jpg | 1920x1080 | /how-it-works/ |
+| 2 | how-long-roof-lasts-houston-hero.jpg | 1920x1080 | /how-long-does-a-roof-last-in-houston/ |
+| 3 | humble-main-street-area-home-roof-hero.jpg | 1920x1080 | /humble-roofing/ |
+| 4 | league-city-two-story-brick-home-new-roof-hero.jpg | 1920x1080 | /league-city-roofing-company/ |
+| 5 | metal-roof-standing-seam-houston-home.jpg | 1920x1080 | /metal-roofing/ |
+| 6 | pasadena-brick-ranch-home-roof-hero.jpg | 1920x1080 | /pasadena-roofing-contractors/ |
+| 7 | chimney-step-flashing-houston.jpg | 1920x1080 | /roof-flashing-repair.html |
+| 8 | emergency-roof-tarp-houston.jpg | 1920x1080 | /roof-repair-emergency.html |
+| 9 | roof-replacement-cost-houston-hero.jpg | 1920x1080 | /roof-replacement-cost.html |
+| 10 | alvin-country-home-metal-roof-pasture-hero.jpg | 1920x1080 | /roofing-alvin-tx/ |
+| 11 | atascocita-two-story-brick-home-roof-hero.jpg | 1920x1080 | /roofing-atascocita-tx/ |
+| 12 | channelview-home-pines-shingle-roof-hero.jpg | 1920x1080 | /roofing-channelview-tx/ |
+| 13 | cypress-lakeside-two-story-home-shingle-roof-hero.jpg | 1920x1080 | /roofing-companies-cypress-tx/ |
+| 14 | katy-two-story-brick-home-architectural-shingle-roof-hero.jpg | 1920x1080 | /roofing-companies-katy-tx/ |
+| 15 | richmond-tx-craftsman-home-brazos-oaks-roof-hero.jpg | 1920x1080 | /roofing-companies-richmond-tx/ |
+| 16 | spring-wooded-ranch-home-shingle-roof-hero.jpg | 1920x1080 | /roofing-companies-spring-tx/ |
+| 17 | sugar-land-two-story-brick-home-new-roof-hero.jpg | 1920x1080 | /roofing-companies-sugar-land-tx/ |
+| 18 | the-woodlands-forest-home-roof-hero.jpg | 1920x1080 | /roofing-companies-the-woodlands-tx/ |
+| 19 | missouri-city-ranch-home-golf-course-roof-hero.jpg | 1920x1080 | /roofing-company-missouri-city/ |
+| 20 | tomball-old-town-brick-home-roof-hero.jpg | 1920x1080 | /roofing-company-tomball-tx/ |
+| 21 | deer-park-brick-ranch-roof-repair-hero.jpg | 1920x1080 | /roofing-deer-park-tx/ |
+| 22 | galveston-raised-beach-house-metal-roof-hero.jpg | 1920x1080 | /roofing-galveston-tx/ |
+| 23 | kingwood-two-story-home-pine-canopy-roof-hero.jpg | 1920x1080 | /roofing-kingwood-tx/ |
+| 24 | la-porte-bayfront-cottage-shingle-roof-hero.jpg | 1920x1080 | /roofing-la-porte-tx/ |
+| 25 | magnolia-acreage-farmhouse-roof-hero.jpg | 1920x1080 | /roofing-magnolia-tx/ |
+| 26 | pearland-two-story-home-new-roof-gulf-sky-hero.jpg | 1920x1080 | /roofing-pearland-tx/ |
+| 27 | rosenberg-tx-brick-home-new-roof-railroad-town-hero.jpg | 1920x1080 | /roofing-rosenberg-tx/ |
+| 28 | seabrook-raised-bayfront-home-metal-roof-hero.jpg | 1920x1080 | /roofing-seabrook-tx/ |
+| 29 | stafford-brick-ranch-home-new-shingle-roof-hero.jpg | 1920x1080 | /roofing-stafford-tx/ |
+| 30 | texas-city-brick-ranch-home-bay-sky-hero.jpg | 1920x1080 | /roofing-texas-city-tx/ |
+| 31 | webster-two-story-home-hip-roof-hero.jpg | 1920x1080 | /roofing-webster-tx/ |
+| 32 | greater-houston-suburb-rooftops-aerial-hero.jpg | 1920x1080 | /service-areas/ |
+| 33 | after-storm-roof-damage-houston-hero.jpg | 1920x1080 | /what-to-do-after-roof-storm-damage/ |
+| 34 | wind-lifted-shingles-houston.jpg | 1920x1080 | /wind-damage-roof.html |
+| 35 | houston-storm-clouds-over-suburban-roofs.jpg | 1200x800 | / |
+| 36 | houston-two-story-home-shingle-roof.jpg | 1200x800 | / |
+| 37 | houston-home-roof-from-street-afternoon.jpg | 1200x800 | /about/ |
+| 38 | baytown-older-home-shingle-roof-live-oak.jpg | 1200x800 | /baytown-roofing/ |
+| 39 | baytown-roofers-storm-repair-shingles.jpg | 1200x800 | /baytown-roofing/ |
+| 40 | houston-office-building-roof-coating.jpg | 1200x800 | /commercial-roofing/ |
+| 41 | houston-strip-center-low-slope-roof.jpg | 1200x800 | /commercial-roofing/ |
+| 42 | houston-warehouse-roof-drain-scupper.jpg | 1200x800 | /commercial-roofing/ |
+| 43 | conroe-new-subdivision-roof-row.jpg | 1200x800 | /conroe-roofer/ |
+| 44 | conroe-older-frame-house-new-roof.jpg | 1200x800 | /conroe-roofer/ |
+| 45 | houston-roofer-ladder-at-gutter-inspection.jpg | 1200x800 | /contact/ |
+| 46 | houston-attic-hatch-cleared-for-roofer.jpg | 1200x800 | /contact/thanks/ |
+| 47 | door-knock-after-storm-houston.jpg | 1200x800 | /do-roofers-need-a-license-in-texas/ |
+| 48 | houston-street-new-roofs-after-storm.jpg | 1200x800 | /do-roofers-need-a-license-in-texas/ |
+| 49 | roofing-contract-kitchen-table-houston.jpg | 1200x800 | /do-roofers-need-a-license-in-texas/ |
+| 50 | houston-homeowner-checking-roof-from-yard.jpg | 1200x800 | /faq/ |
+| 51 | houston-garage-flat-roof-new-membrane.jpg | 1200x800 | /flat-roof-repair/ |
+| 52 | houston-modern-home-flat-roof-scupper.jpg | 1200x800 | /flat-roof-repair/ |
+| 53 | friendswood-county-line-neighborhood-roofs.jpg | 1200x800 | /friendswood-roofing/ |
+| 54 | houston-dented-gutter-hail-marks.jpg | 1200x800 | /hail-claim-checklist/ |
+| 55 | houston-printed-checklist-on-fridge.jpg | 1200x800 | /hail-claim-checklist/thanks/ |
+| 56 | houston-hail-dented-gutter-closeup.jpg | 1200x800 | /hail-damage-roof-insurance.html |
+| 57 | houston-insurance-adjuster-roof-visit.jpg | 1200x800 | /hail-damage-roof-insurance.html |
+| 58 | houston-hail-dented-gutter-ac-unit.jpg | 1200x800 | /hail-damage-roof-repair/ |
+| 59 | houston-homeowner-reading-roof-contract.jpg | 1200x800 | /how-it-works/ |
+| 60 | phone-showing-call-screen-kitchen-counter.jpg | 1200x800 | /how-it-works/ |
+| 61 | houston-attic-hot-roof-deck.jpg | 1200x800 | /how-long-does-a-roof-last-in-houston/ |
+| 62 | houston-soffit-ridge-vent-roof.jpg | 1200x800 | /how-long-does-a-roof-last-in-houston/ |
+| 63 | humble-older-frame-home-new-roof.jpg | 1200x800 | /humble-roofing/ |
+| 64 | humble-west-fork-pines-shingle-roofs.jpg | 1200x800 | /humble-roofing/ |
+| 65 | league-city-roof-repair-small-patch-ranch-home.jpg | 1200x800 | /league-city-roofing-company/ |
+| 66 | houston-acreage-barn-metal-roof.jpg | 1200x800 | /metal-roofing/ |
+| 67 | houston-carport-metal-roof-fasteners.jpg | 1200x800 | /metal-roofing/ |
+| 68 | houston-metal-roof-after-hailstorm.jpg | 1200x800 | /metal-roofing/ |
+| 69 | pasadena-ranch-home-new-shingle-roof.jpg | 1200x800 | /pasadena-roofing-contractors/ |
+| 70 | pasadena-roofer-replacing-decking-tear-off.jpg | 1200x800 | /pasadena-roofing-contractors/ |
+| 71 | houston-roof-wall-kickout-flashing.jpg | 1200x800 | /roof-flashing-repair.html |
+| 72 | houston-attic-roof-decking-inspection.jpg | 1200x800 | /roof-inspection/ |
+| 73 | houston-attic-air-handler-drain-pan.jpg | 1200x800 | /roof-leak-repair/ |
+| 74 | houston-ceiling-water-stain-bucket.jpg | 1200x800 | /roof-leak-repair/, /services/ |
+| 75 | houston-ceiling-leak-bucket-living-room.jpg | 1200x800 | /roof-repair-emergency.html |
+| 76 | houston-brick-home-roof-repair-patch.jpg | 1200x800 | /roof-repair/ |
+| 77 | houston-ranch-home-roof-measuring.jpg | 1200x800 | /roof-replacement-cost.html |
+| 78 | houston-roof-tear-off-decking.jpg | 1200x800 | /roof-replacement-cost.html |
+| 79 | houston-reroof-tear-off-trailer-driveway.jpg | 1200x800 | /roof-replacement/ |
+| 80 | houston-two-story-home-new-architectural-shingle-roof.jpg | 1200x800 | /roof-replacement/ |
+| 81 | alvin-storm-clouds-over-farm-house-roof.jpg | 1200x800 | /roofing-alvin-tx/ |
+| 82 | alvin-subdivision-two-story-shingle-roof.jpg | 1200x800 | /roofing-alvin-tx/ |
+| 83 | atascocita-lake-houston-shore-homes.jpg | 1200x800 | /roofing-atascocita-tx/ |
+| 84 | atascocita-roof-repair-step-flashing.jpg | 1200x800 | /roofing-atascocita-tx/ |
+| 85 | channelview-carpenters-bayou-homes-after-storm.jpg | 1200x800 | /roofing-channelview-tx/ |
+| 86 | channelview-ranch-home-roof-pine-needles.jpg | 1200x800 | /roofing-channelview-tx/ |
+| 87 | cypress-bridgeland-new-home-roofline-lake.jpg | 1200x800 | /roofing-companies-cypress-tx/ |
+| 88 | cypress-copperfield-era-brick-ranch-roof.jpg | 1200x800 | /roofing-companies-cypress-tx/ |
+| 89 | katy-new-subdivision-street-shingle-roofs.jpg | 1200x800 | /roofing-companies-katy-tx/ |
+| 90 | katy-roofer-checking-flashing-two-story-home.jpg | 1200x800 | /roofing-companies-katy-tx/ |
+| 91 | richmond-tx-historic-street-older-homes-roofs.jpg | 1200x800 | /roofing-companies-richmond-tx/ |
+| 92 | richmond-tx-pecan-grove-two-story-home-roof.jpg | 1200x800 | /roofing-companies-richmond-tx/ |
+| 93 | spring-attic-spaced-board-decking.jpg | 1200x800 | /roofing-companies-spring-tx/ |
+| 94 | spring-klein-street-roof-repair-after-tornado.jpg | 1200x800 | /roofing-companies-spring-tx/ |
+| 95 | sugar-land-first-colony-street-roofs.jpg | 1200x800 | /roofing-companies-sugar-land-tx/ |
+| 96 | sugar-land-greatwood-home-architectural-shingles.jpg | 1200x800 | /roofing-companies-sugar-land-tx/ |
+| 97 | the-woodlands-greenbelt-roofline-canopy.jpg | 1200x800 | /roofing-companies-the-woodlands-tx/ |
+| 98 | the-woodlands-older-village-home-reroof.jpg | 1200x800 | /roofing-companies-the-woodlands-tx/ |
+| 99 | missouri-city-quail-valley-brick-homes-roofs.jpg | 1200x800 | /roofing-company-missouri-city/ |
+| 100 | missouri-city-sienna-two-story-home-complex-roof.jpg | 1200x800 | /roofing-company-missouri-city/ |
+| 101 | tomball-acreage-home-metal-barn-roof.jpg | 1200x800 | /roofing-company-tomball-tx/ |
+| 102 | tomball-roofer-tearoff-older-home.jpg | 1200x800 | /roofing-company-tomball-tx/ |
+| 103 | deer-park-ceiling-stain-bucket-leak.jpg | 1200x800 | /roofing-deer-park-tx/ |
+| 104 | deer-park-roofer-replacing-pipe-boot.jpg | 1200x800 | /roofing-deer-park-tx/ |
+| 105 | galveston-east-end-victorian-home-roof.jpg | 1200x800 | /roofing-galveston-tx/ |
+| 106 | galveston-roofer-fastening-underlayment-coastal-home.jpg | 1200x800 | /roofing-galveston-tx/ |
+| 107 | kingwood-pine-needles-roof-valley.jpg | 1200x800 | /roofing-kingwood-tx/ |
+| 108 | la-porte-oak-limb-on-shingle-roof-after-storm.jpg | 1200x800 | /roofing-la-porte-tx/ |
+| 109 | la-porte-ranch-home-oak-shingle-roof.jpg | 1200x800 | /roofing-la-porte-tx/ |
+| 110 | magnolia-new-subdivision-roofs-fm-1488.jpg | 1200x800 | /roofing-magnolia-tx/ |
+| 111 | magnolia-roofer-metal-porch-roof.jpg | 1200x800 | /roofing-magnolia-tx/ |
+| 112 | pearland-roofer-nailing-underlayment-windstorm.jpg | 1200x800 | /roofing-pearland-tx/ |
+| 113 | pearland-shadow-creek-street-new-roofs.jpg | 1200x800 | /roofing-pearland-tx/ |
+| 114 | rosenberg-tx-downtown-historic-buildings-roofs.jpg | 1200x800 | /roofing-rosenberg-tx/ |
+| 115 | rosenberg-tx-new-subdivision-homes-shingle-roofs.jpg | 1200x800 | /roofing-rosenberg-tx/ |
+| 116 | seabrook-waterfront-street-coastal-roofs.jpg | 1200x800 | /roofing-seabrook-tx/ |
+| 117 | stafford-1970s-brick-homes-street-roofs.jpg | 1200x800 | /roofing-stafford-tx/ |
+| 118 | stafford-reroof-crew-tear-off-ranch-home.jpg | 1200x800 | /roofing-stafford-tx/ |
+| 119 | texas-city-bay-street-homes-shingle-roofs.jpg | 1200x800 | /roofing-texas-city-tx/ |
+| 120 | texas-city-storm-cleanup-shingles-yard.jpg | 1200x800 | /roofing-texas-city-tx/ |
+| 121 | webster-clear-lake-area-homes-roofs.jpg | 1200x800 | /roofing-webster-tx/ |
+| 122 | galveston-county-raised-home-metal-roof.jpg | 1200x800 | /service-areas/ |
+| 123 | houston-suburb-street-shingle-roofs.jpg | 1200x800 | /service-areas/ |
+| 124 | houston-roofer-reviewing-estimate-with-homeowner.jpg | 1200x800 | /services/ |
+| 125 | houston-live-oak-limb-on-roof-after-storm.jpg | 1200x800 | /storm-damage-roof-repair/ |
+| 126 | roofer-attic-inspection-after-storm-houston.jpg | 1200x800 | /what-to-do-after-roof-storm-damage/ |
+| 127 | storm-damage-photos-from-yard-houston.jpg | 1200x800 | /what-to-do-after-roof-storm-damage/ |
+| 128 | storm-lifted-shingles-houston-ranch.jpg | 1200x800 | /what-to-do-after-roof-storm-damage/ |
+| 129 | houston-two-story-home-ridge-caps-after-wind.jpg | 1200x800 | /wind-damage-roof.html |
 
-## 1. houston-neighborhood-roofs-morning-hero.jpg
-
-- File name: `houston-neighborhood-roofs-morning-hero.jpg`
-- Size: 1920x1080 px
-- Page(s): /about/
-- Alt text: Morning light over a row of Houston homes with brick fronts and gray shingle roofs, live oaks along the street
-- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Early morning sunlight over a row of single-story and two-story Houston homes with brick fronts and gray and brown asphalt shingle roofs, mature live oaks along a quiet street, dew on the lawns, flat land, clear pale blue sky. Realistic photo, no text, no logos, no house numbers, no people.
-
-## 2. baytown-bayfront-home-shingle-roof-hero.jpg
-
-- File name: `baytown-bayfront-home-shingle-roof-hero.jpg`
-- Size: 1920x1080 px
-- Page(s): /baytown-roofing/
-- Alt text: Raised single-story home near Galveston Bay in Baytown with a dark shingle roof, marsh grass and a wide sky
-- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story home on a slightly raised slab near the north end of Galveston Bay in Baytown, Texas, a dark gray architectural shingle roof with a covered back porch, tall marsh grass and a line of live oaks bent by the wind, flat coastal land and a glimpse of open bay water, bright blue sky with towering white clouds. Left half of the frame is open sky and grass. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
-
-## 3. conroe-lake-area-brick-home-roof-hero.jpg
-
-- File name: `conroe-lake-area-brick-home-roof-hero.jpg`
-- Size: 1920x1080 px
-- Page(s): /conroe-roofer/
-- Alt text: Two-story brick home with a charcoal shingle roof under tall pines on a wooded lot near Lake Conroe
-- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two-story red brick home with a charcoal gray architectural shingle roof and a wide front porch on a wooded lot near Lake Conroe, Texas, tall loblolly pines and a sweetgum around the house, a glimpse of blue lake water through the trees on the far right, pine straw beds and a concrete drive, bright late morning light, clear sky. Left half of the frame is open lawn, trees and sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
-
-## 4. houston-home-office-phone-and-notes-hero.jpg
-
-- File name: `houston-home-office-phone-and-notes-hero.jpg`
-- Size: 1920x1080 px
-- Page(s): /contact/
-- Alt text: Kitchen table in a Houston home with a phone, a notepad and a cup of coffee by a bright window
-- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A kitchen table in a bright Houston home with a smartphone, a notepad and pen and a cup of coffee, a large window behind showing a green yard and the edge of a neighbor's shingle roof, morning light, uncluttered left half of the frame. Realistic photo, no readable text, no logos, no people. Bright, clearly visible, realistic photo, no text, no logos, no house numbers, no recognizable faces.
-
-## 5. checking-a-roofer-houston-hero.jpg
-
-- File name: `checking-a-roofer-houston-hero.jpg`
-- Size: 1920x1080 px
-- Page(s): /do-roofers-need-a-license-in-texas/
-- Alt text: Homeowner on the front walk of a brick Houston home reading a printed roofing contract while a pickup truck with a ladder rack waits at the curb
-- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two-story red brick suburban home in greater Houston with a gray architectural shingle roof, a homeowner seen from behind at a distance on the front walk holding a clipboard with printed pages, a plain unmarked white pickup truck with an empty ladder rack parked at the curb, mature live oak, green lawn, flat land and a bright blue sky with a few clouds. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
-
-## 6. flat-roof-ponding-water-houston.jpg
-
-- File name: `flat-roof-ponding-water-houston.jpg`
-- Size: 1920x1080 px
-- Page(s): /flat-roof-repair/
-- Alt text: Shallow puddle of standing water on a gray flat roof over a Houston home addition after rain
-- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A low flat roof over a single-story addition on a Houston brick home the morning after rain, a shallow wide puddle of standing water reflecting the blue sky on the right third of the gray modified bitumen roof surface, a metal drip edge and a small scupper at the roof edge, a live oak branch overhead, bright clear daylight. Realistic photo, no text, no logos, no house numbers, no people.
-
-## 7. friendswood-wooded-street-shingle-roof-hero.jpg
-
-- File name: `friendswood-wooded-street-shingle-roof-hero.jpg`
-- Size: 1920x1080 px
-- Page(s): /friendswood-roofing/
-- Alt text: Single-story brick home on a tree-shaded Friendswood street with a dark shingle roof and tall pines and oaks behind it
-- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story brick home with a dark gray asphalt shingle roof on a quiet, tree-shaded residential street in Friendswood, Texas, tall loblolly pines and spreading live oaks behind the house, sunlight breaking through the canopy onto the roof and a green lawn, flat land, clear blue sky above the trees. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
-
-## 8. hail-on-lawn-after-storm-houston-hero.jpg
-
-- File name: `hail-on-lawn-after-storm-houston-hero.jpg`
-- Size: 1920x1080 px
-- Page(s): /hail-claim-checklist/
-- Alt text: Hailstones scattered across a green lawn and driveway in front of a brick home with a shingle roof after a spring storm
-- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Hailstones the size of marbles scattered across a green lawn and a concrete driveway in front of a one-story brick home with a gray asphalt shingle roof in a Houston suburb, just after a spring storm, sky clearing to bright blue with sunlight on the wet grass. Realistic photo, no text, no logos, no house numbers, no people.
-
-## 9. roof-insurance-claim-houston-hero.jpg
-
-- File name: `roof-insurance-claim-houston-hero.jpg`
-- Size: 1920x1080 px
-- Page(s): /hail-damage-roof-insurance.html
-- Alt text: Houston homeowner on the front walk photographing hail-dented gutters and a shingle roof with a phone after a storm
-- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A homeowner seen from behind standing on the front walk of a two-story brick home in suburban Houston, holding up a phone to photograph a dented aluminum gutter and scuffed gray shingles on the roof, scattered small leaves and hail stones melting on the green lawn, wet driveway, clearing sky with sunlight breaking through after a storm. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
-
-## 10. hail-damage-shingles-closeup-houston.jpg
-
-- File name: `hail-damage-shingles-closeup-houston.jpg`
-- Size: 1920x1080 px
-- Page(s): /hail-damage-roof-repair/
-- Alt text: Close view of gray asphalt shingles with scattered dark round marks where hail knocked off the granules
-- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Close, low-angle view across a sloped gray asphalt shingle roof on a Houston home after a spring hailstorm, scattered round dark spots where granules were knocked off, a few small white hailstones melting in the shingle grooves, loose granules collected along the drip edge, a suburban street and green trees softly out of focus behind, bright clearing sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
-
-## 11. homeowner-phone-call-front-porch-houston-hero.jpg
+## 1. homeowner-phone-call-front-porch-houston-hero.jpg
 
 - File name: `homeowner-phone-call-front-porch-houston-hero.jpg`
 - Size: 1920x1080 px
@@ -245,7 +155,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Homeowner on the front porch of a brick house holding a phone and looking up at the roof, seen from behind
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A homeowner seen from behind standing on the front porch of a one-story brick house in a Houston neighborhood, holding a phone to their ear and looking up at a gray shingle roof with a few lifted shingles, a live oak in the yard, bright morning light, flat street on the left half of the frame. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 12. how-long-roof-lasts-houston-hero.jpg
+## 2. how-long-roof-lasts-houston-hero.jpg
 
 - File name: `how-long-roof-lasts-houston-hero.jpg`
 - Size: 1920x1080 px
@@ -253,7 +163,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two neighboring Houston brick homes, one with a faded, streaked shingle roof and one with a fresh dark shingle roof, under strong summer sun
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Two neighboring single-story brick homes in an established greater Houston subdivision under strong summer sun, the left roof faded gray asphalt shingles with dark algae streaks and slightly curled edges, the right roof crisp new charcoal architectural shingles, live oaks, St. Augustine lawns, flat land, hazy bright blue sky. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 13. humble-main-street-area-home-roof-hero.jpg
+## 3. humble-main-street-area-home-roof-hero.jpg
 
 - File name: `humble-main-street-area-home-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -261,7 +171,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Older single-story frame home with a dark shingle roof and a front porch on a tree-lined street in Humble
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. An older single-story wood frame home with white lap siding, a dark gray asphalt shingle roof and a small covered front porch on a quiet tree-lined street in the older part of Humble, Texas, a tall pine and a pecan tree in the yard, a chain link fence, green grass, flat land, bright blue sky. Left half of the frame is open street, trees and sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 14. league-city-two-story-brick-home-new-roof-hero.jpg
+## 4. league-city-two-story-brick-home-new-roof-hero.jpg
 
 - File name: `league-city-two-story-brick-home-new-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -269,7 +179,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two-story brick home in a League City subdivision with a newly installed gray architectural shingle roof under a bright Gulf Coast sky
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two-story red brick and tan siding home in a League City, Texas subdivision with a freshly installed charcoal gray architectural shingle roof and clean white drip edge, a young live oak and a palm in the front yard, flat coastal land, a wide concrete driveway, bright blue sky with a few high clouds drifting in from Galveston Bay. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 15. metal-roof-standing-seam-houston-home.jpg
+## 5. metal-roof-standing-seam-houston-home.jpg
 
 - File name: `metal-roof-standing-seam-houston-home.jpg`
 - Size: 1920x1080 px
@@ -277,7 +187,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two-story Houston farmhouse-style home with a charcoal standing seam metal roof and white siding under a blue sky
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two-story modern farmhouse-style home in a Houston suburb with white board and batten siding and a charcoal standing seam metal roof with crisp vertical seams catching the sunlight, positioned on the right third of the frame, a wide front porch, young live oaks, green lawn, flat Gulf Coast land and a bright blue sky. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 16. pasadena-brick-ranch-home-roof-hero.jpg
+## 6. pasadena-brick-ranch-home-roof-hero.jpg
 
 - File name: `pasadena-brick-ranch-home-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -285,7 +195,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Single-story brick ranch home in Pasadena, Texas with a carport and a weathered gray shingle roof under a bright sky
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story red brick ranch home with an attached carport in an established Pasadena, Texas neighborhood, a low-pitched hip roof of weathered gray asphalt shingles, a mature pecan tree and a live oak, a mowed lawn and a chain link fence, flat land, bright blue Gulf Coast sky with a few white clouds. Left half of the frame is open sky and lawn. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 17. chimney-step-flashing-houston.jpg
+## 7. chimney-step-flashing-houston.jpg
 
 - File name: `chimney-step-flashing-houston.jpg`
 - Size: 1920x1080 px
@@ -293,7 +203,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Brick chimney on an asphalt shingle roof with metal step flashing and counterflashing along its sides
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Close view of a red brick chimney rising from a gray architectural asphalt shingle roof on a Houston home, clean bent metal step flashing tucked under each shingle course up the side of the chimney and counterflashing set into the mortar joints above it, a small sheet metal cricket on the uphill side, tall pines and a bright blue Gulf Coast sky behind. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 18. emergency-roof-tarp-houston.jpg
+## 8. emergency-roof-tarp-houston.jpg
 
 - File name: `emergency-roof-tarp-houston.jpg`
 - Size: 1920x1080 px
@@ -301,7 +211,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Blue tarp stretched over the ridge of a shingle roof and held down with wood strips after a storm
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A one-story Houston brick home after a storm with a bright blue tarp neatly stretched over a damaged section of its gray shingle roof, running up and over the ridge and held flat by rows of wooden boards screwed along its edges, wet driveway, a broken limb pushed to the curb, live oaks, breaking clouds with sunlight. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 19. roof-replacement-cost-houston-hero.jpg
+## 9. roof-replacement-cost-houston-hero.jpg
 
 - File name: `roof-replacement-cost-houston-hero.jpg`
 - Size: 1920x1080 px
@@ -309,7 +219,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two-story Houston brick home with a freshly installed charcoal shingle roof, a roll-off dumpster of old shingles in the driveway
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two-story suburban Houston home with tan brick and white trim, a brand new charcoal gray architectural shingle roof with crisp ridge lines, a roll-off dumpster full of torn-off old shingles parked in the concrete driveway, a young live oak in a green lawn, flat Gulf Coast land and a bright blue sky with a few white clouds. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 20. alvin-country-home-metal-roof-pasture-hero.jpg
+## 10. alvin-country-home-metal-roof-pasture-hero.jpg
 
 - File name: `alvin-country-home-metal-roof-pasture-hero.jpg`
 - Size: 1920x1080 px
@@ -317,7 +227,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: One story country home with a red standing seam metal roof and a deep porch beside open pasture and pecan trees near Alvin
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A one story country home near Alvin, Texas with white board siding, a red standing seam metal roof and a deep front porch, tall pecan trees and an open green pasture with a wire fence, perfectly flat Brazoria County farmland stretching to the horizon, bright sun and a clear blue sky with a few white clouds. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 21. atascocita-two-story-brick-home-roof-hero.jpg
+## 11. atascocita-two-story-brick-home-roof-hero.jpg
 
 - File name: `atascocita-two-story-brick-home-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -325,7 +235,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two-story brick home with a gray shingle roof in an Atascocita subdivision, young oaks along the sidewalk and pines behind
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two-story tan brick home with a gray architectural asphalt shingle roof, a front-facing garage and two gables in a suburban Atascocita, Texas subdivision, young live oaks along a wide sidewalk, tall pines behind the house, a neat green lawn, flat land, bright blue sky with a few clouds. Left half of the frame is open street, lawn and sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 22. channelview-home-pines-shingle-roof-hero.jpg
+## 12. channelview-home-pines-shingle-roof-hero.jpg
 
 - File name: `channelview-home-pines-shingle-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -333,7 +243,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Single-story brick and siding home in Channelview under tall pines, with a gray shingle roof and a grassy ditch along the road
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A modest single-story brick and siding home on a slab in an unincorporated east Harris County neighborhood, a gray architectural shingle roof with a few pine needles in the valley, tall loblolly pines and a tallow tree, a grassy roadside drainage ditch, flat land, bright blue sky with a faint line of industrial towers far on the horizon. Left half of the frame is open sky and lawn. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 23. cypress-lakeside-two-story-home-shingle-roof-hero.jpg
+## 13. cypress-lakeside-two-story-home-shingle-roof-hero.jpg
 
 - File name: `cypress-lakeside-two-story-home-shingle-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -341,7 +251,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two-story stone and brick home beside a calm neighborhood lake in Cypress with a weathered wood tone architectural shingle roof
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two-story stone and tan brick suburban home in a newer Cypress, Texas master-planned community, a weathered wood tone architectural asphalt shingle roof with hip and gable sections, a calm neighborhood lake and walking trail in the foreground on the left, young live oaks and tall native grasses along the bank, flat northwest Harris County land, bright blue sky with scattered white clouds. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 24. katy-two-story-brick-home-architectural-shingle-roof-hero.jpg
+## 14. katy-two-story-brick-home-architectural-shingle-roof-hero.jpg
 
 - File name: `katy-two-story-brick-home-architectural-shingle-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -349,7 +259,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two-story brick home in a Katy master-planned neighborhood with a dark architectural shingle roof under a bright sky
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two-story red brick and stone suburban home in a Katy, Texas master-planned neighborhood, a dark gray architectural asphalt shingle roof with several gables, young live oaks along a wide sidewalk, a trimmed green lawn, flat open prairie land and a bright blue sky with tall white clouds, a quiet curving street across the left half of the frame. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 25. richmond-tx-craftsman-home-brazos-oaks-roof-hero.jpg
+## 15. richmond-tx-craftsman-home-brazos-oaks-roof-hero.jpg
 
 - File name: `richmond-tx-craftsman-home-brazos-oaks-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -357,7 +267,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Restored one-story craftsman home with a charcoal shingle roof and deep porch under large live oaks on an older Richmond street
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A restored one-story craftsman style wood frame home on an older street in Richmond, Texas, a charcoal architectural asphalt shingle roof with a low gable over a deep front porch, huge spreading live oaks with Spanish moss, a picket fence and green lawn, flat Brazos River bottomland, bright morning sun and a clear blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 26. spring-wooded-ranch-home-shingle-roof-hero.jpg
+## 16. spring-wooded-ranch-home-shingle-roof-hero.jpg
 
 - File name: `spring-wooded-ranch-home-shingle-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -365,7 +275,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: One-story brick ranch home with a weathered brown shingle roof under tall pines and oaks on a quiet Spring street
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A long one-story brick ranch home from the late 1970s with a weathered brown architectural shingle roof and a two-car side garage on a quiet curving street in Spring, Texas, tall loblolly pines and a broad water oak shading part of the roof, pine needles in the gutter line, a mowed lawn and flat land, bright blue sky with soft clouds. Left half of the frame is open lawn, street and sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 27. sugar-land-two-story-brick-home-new-roof-hero.jpg
+## 17. sugar-land-two-story-brick-home-new-roof-hero.jpg
 
 - File name: `sugar-land-two-story-brick-home-new-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -373,7 +283,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two-story brick home on a tree-lined Sugar Land street with a freshly installed charcoal architectural shingle roof
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two-story red and tan brick home in an established Sugar Land, Texas neighborhood with a freshly installed charcoal architectural shingle roof, mature live oaks and crepe myrtles along a wide curving street, a neat green lawn, flat Fort Bend County land, bright blue sky with a few white clouds, open street on the left half of the frame. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 28. the-woodlands-forest-home-roof-hero.jpg
+## 18. the-woodlands-forest-home-roof-hero.jpg
 
 - File name: `the-woodlands-forest-home-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -381,7 +291,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two-story brick home with a dark shingle roof set among tall pines on a quiet street in The Woodlands
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two-story brick and cedar trim home in The Woodlands, Texas, with a muted dark gray architectural shingle roof, set back from a curving street under tall loblolly pines and oaks, pine straw beds, a wooded greenbelt behind, soft morning sun breaking through the canopy, clear blue sky above the treetops. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 29. missouri-city-ranch-home-golf-course-roof-hero.jpg
+## 19. missouri-city-ranch-home-golf-course-roof-hero.jpg
 
 - File name: `missouri-city-ranch-home-golf-course-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -389,7 +299,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Single-story brick ranch home with a new gray shingle roof beside a tree-lined golf fairway in Missouri City
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story red brick ranch home from the 1970s in an established Missouri City, Texas golf course neighborhood, its low-pitched roof covered in fresh charcoal gray architectural shingles, tall pines and live oaks along a green fairway behind it, a wide lawn, flat Fort Bend County land, bright blue sky with soft white clouds, open fairway on the left half of the frame. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 30. tomball-old-town-brick-home-roof-hero.jpg
+## 20. tomball-old-town-brick-home-roof-hero.jpg
 
 - File name: `tomball-old-town-brick-home-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -397,7 +307,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Single-story brick home with a gray shingle roof and a deep front porch under tall pines on a quiet Tomball street
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story red brick home with a weathered gray asphalt shingle roof and a deep covered front porch on a quiet street near the old downtown of Tomball, Texas, tall loblolly pines and a spreading live oak in the yard, a wide green lawn, flat land, bright blue sky with a few white clouds. Left half of the frame is open street, lawn and sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 31. deer-park-brick-ranch-roof-repair-hero.jpg
+## 21. deer-park-brick-ranch-roof-repair-hero.jpg
 
 - File name: `deer-park-brick-ranch-roof-repair-hero.jpg`
 - Size: 1920x1080 px
@@ -405,7 +315,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Roofer replacing a strip of shingles on a single-story brick ranch home in Deer Park, Texas on a clear day
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story red brick ranch home with a low hip roof in an established Deer Park, Texas neighborhood, one roofer in a harness seen from behind at a distance replacing a narrow strip of gray shingles near the ridge, a ladder tied off at the eave, a mature live oak and a trimmed lawn, flat land, bright blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 32. galveston-raised-beach-house-metal-roof-hero.jpg
+## 22. galveston-raised-beach-house-metal-roof-hero.jpg
 
 - File name: `galveston-raised-beach-house-metal-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -413,7 +323,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Raised wooden beach house on pilings with a light gray standing seam metal roof beside dune grass on Galveston Island under a bright sky
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A pastel blue two-story wooden beach house raised high on pilings on Galveston Island, Texas, with a light gray standing seam metal roof and a wraparound porch, dune grass and sea oats in the foreground, flat sandy land, a bright blue Gulf Coast sky with a few white clouds. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 33. kingwood-two-story-home-pine-canopy-roof-hero.jpg
+## 23. kingwood-two-story-home-pine-canopy-roof-hero.jpg
 
 - File name: `kingwood-two-story-home-pine-canopy-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -421,7 +331,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two-story brick home with a dark shingle roof under tall pines on a curving wooded street in Kingwood
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two-story red brick home with a steep dark brown asphalt shingle roof and several gables, set back under very tall loblolly pines on a quiet curving street in a heavily wooded master-planned community northeast of Houston, Texas, pine needles on the lawn edges, sunlight falling through the canopy onto the roof, bright sky visible above the trees. Left half of the frame is street, lawn and tall trunks. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 34. la-porte-bayfront-cottage-shingle-roof-hero.jpg
+## 24. la-porte-bayfront-cottage-shingle-roof-hero.jpg
 
 - File name: `la-porte-bayfront-cottage-shingle-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -429,7 +339,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Raised bayfront cottage with a dark gray shingle roof under live oaks with Galveston Bay water behind it in La Porte
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A raised wooden bayfront cottage in La Porte, Texas painted pale green with white trim, a dark gray architectural shingle roof and a screened porch, large live oaks with spreading branches, a mowed lawn running down to the calm water of Galveston Bay with a long wooden pier in the distance, bright morning sun and a clear sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 35. magnolia-acreage-farmhouse-roof-hero.jpg
+## 25. magnolia-acreage-farmhouse-roof-hero.jpg
 
 - File name: `magnolia-acreage-farmhouse-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -437,7 +347,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Modern farmhouse style home with a dark shingle roof and a metal porch roof on a wooded acreage lot near Magnolia
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A one-story modern farmhouse style home with white board and batten siding, a dark gray architectural shingle main roof and a charcoal standing seam metal porch roof on a two-acre wooded lot near Magnolia, Texas, tall pines and a few magnolia trees along the edge of the lot, a long gravel drive and green grass, flat land, bright morning sun and blue sky. Left half of the frame is open pasture, trees and sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 36. pearland-two-story-home-new-roof-gulf-sky-hero.jpg
+## 26. pearland-two-story-home-new-roof-gulf-sky-hero.jpg
 
 - File name: `pearland-two-story-home-new-roof-gulf-sky-hero.jpg`
 - Size: 1920x1080 px
@@ -445,7 +355,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two-story brick and stone home in a Pearland subdivision with a new charcoal architectural shingle roof under a bright sky
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two-story red brick and cream stone home from the early 2000s in a Pearland, Texas master-planned subdivision, its roof freshly covered in charcoal architectural shingles with crisp ridge caps, a young live oak and a crape myrtle in the front yard, a lake and walking path in the background, flat Brazoria County coastal plain, bright blue sky with tall white Gulf clouds, open lawn on the left half of the frame. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 37. rosenberg-tx-brick-home-new-roof-railroad-town-hero.jpg
+## 27. rosenberg-tx-brick-home-new-roof-railroad-town-hero.jpg
 
 - File name: `rosenberg-tx-brick-home-new-roof-railroad-town-hero.jpg`
 - Size: 1920x1080 px
@@ -453,7 +363,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Single-story brick home with a new slate gray architectural shingle roof on a wide lot in a Rosenberg subdivision
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story tan brick home with a freshly installed slate gray architectural asphalt shingle roof on a wide lot in a Rosenberg, Texas subdivision, a young live oak and a neat green lawn, a long straight street running into flat Fort Bend County farmland on the left of the frame, a distant water tower, bright midday sun and a deep blue sky with a few clouds. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 38. seabrook-raised-bayfront-home-metal-roof-hero.jpg
+## 28. seabrook-raised-bayfront-home-metal-roof-hero.jpg
 
 - File name: `seabrook-raised-bayfront-home-metal-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -461,7 +371,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Raised coastal home on pilings in Seabrook with a standing seam metal roof, palms and Galveston Bay water in the background
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A raised two-story coastal home on pilings in Seabrook, Texas with light blue siding, a wide porch and a silver standing seam metal roof, two tall palms and coastal grass in the yard, the calm water of Galveston Bay and a few sailboat masts in the distance, bright sun and a clear blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 39. stafford-brick-ranch-home-new-shingle-roof-hero.jpg
+## 29. stafford-brick-ranch-home-new-shingle-roof-hero.jpg
 
 - File name: `stafford-brick-ranch-home-new-shingle-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -469,7 +379,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Single-story brick ranch home in Stafford with a freshly installed weathered wood shingle roof and a mature oak in the yard
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A modest single-story tan brick ranch home from the 1970s on a quiet Stafford, Texas street, its roof freshly covered in weathered wood colored architectural shingles with clean new drip edge, a large mature live oak shading part of the lawn, a wide concrete driveway, flat Fort Bend County land, bright blue sky with a few soft clouds, open street on the left half of the frame. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 40. texas-city-brick-ranch-home-bay-sky-hero.jpg
+## 30. texas-city-brick-ranch-home-bay-sky-hero.jpg
 
 - File name: `texas-city-brick-ranch-home-bay-sky-hero.jpg`
 - Size: 1920x1080 px
@@ -477,7 +387,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Single story brick ranch home with a gray architectural shingle roof under a wide Gulf Coast sky on a flat street in Texas City
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single story red brick ranch home in Texas City, Texas with a low pitched gray architectural shingle roof, a carport and a trimmed lawn, a young live oak and a crape myrtle in the yard, perfectly flat Gulf Coast land, a grassy levee line faintly visible on the far horizon, bright sun and a big blue sky with white clouds. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 41. webster-two-story-home-hip-roof-hero.jpg
+## 31. webster-two-story-home-hip-roof-hero.jpg
 
 - File name: `webster-two-story-home-hip-roof-hero.jpg`
 - Size: 1920x1080 px
@@ -485,7 +395,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two-story brick home in Webster, Texas with a gray hip roof, a palm and a live oak in the yard under a bright sky
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two-story brick and siding home in Webster, Texas near Clear Lake with a gray architectural shingle hip roof, a tall palm and a live oak in the front yard, a trimmed lawn, flat Gulf Coast land, bright late morning sun and a blue sky with soft white clouds. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 42. greater-houston-suburb-rooftops-aerial-hero.jpg
+## 32. greater-houston-suburb-rooftops-aerial-hero.jpg
 
 - File name: `greater-houston-suburb-rooftops-aerial-hero.jpg`
 - Size: 1920x1080 px
@@ -493,7 +403,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Aerial view over a greater Houston suburb with rows of shingle roofs, live oaks and a flat horizon under a bright sky
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A high aerial view over a greater Houston suburb in late morning light, curving streets lined with one- and two-story homes with gray, brown and charcoal asphalt shingle roofs, live oaks and pines between them, a retention pond, a distant flat horizon with a faint skyline haze, bright blue sky with scattered white clouds. Realistic photo, no text, no logos, no people.
 
-## 43. after-storm-roof-damage-houston-hero.jpg
+## 33. after-storm-roof-damage-houston-hero.jpg
 
 - File name: `after-storm-roof-damage-houston-hero.jpg`
 - Size: 1920x1080 px
@@ -501,7 +411,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Brick Houston home after a thunderstorm with a large oak limb on the lawn, a few dark shingles scattered on the grass and clearing skies
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story red brick home in a greater Houston suburb the morning after a severe thunderstorm, a large broken live oak limb lying across the front lawn, several torn dark gray asphalt shingles scattered on the wet grass, a visible bare patch near the roof ridge, puddles on the driveway, flat land and clouds breaking into bright blue sky. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 44. wind-lifted-shingles-houston.jpg
+## 34. wind-lifted-shingles-houston.jpg
 
 - File name: `wind-lifted-shingles-houston.jpg`
 - Size: 1920x1080 px
@@ -509,7 +419,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Row of asphalt shingles lifted and folded back by wind along the edge of a suburban roof
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A gray asphalt shingle roof on a two-story Houston suburban home after a windstorm, a row of shingles near the rake edge lifted and folded back showing the lighter underlayment beneath, one creased tab standing up, a bent pine bough lying in the gutter, tall pines and a clearing blue sky with fast-moving clouds behind. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 45. houston-storm-clouds-over-suburban-roofs.jpg
+## 35. houston-storm-clouds-over-suburban-roofs.jpg
 
 - File name: `houston-storm-clouds-over-suburban-roofs.jpg`
 - Size: 1200x800 px
@@ -517,7 +427,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Dark storm clouds building over a row of shingle roofs in a flat Houston neighborhood, with live oaks bending in the wind
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A row of single-story and two-story homes with asphalt shingle roofs in a flat Houston neighborhood, dramatic dark gray storm clouds building in the sky behind them with bright sunlight still on the roofs, live oak branches leaning in the wind, wet street. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 46. houston-two-story-home-shingle-roof.jpg
+## 36. houston-two-story-home-shingle-roof.jpg
 
 - File name: `houston-two-story-home-shingle-roof.jpg`
 - Size: 1200x800 px
@@ -525,7 +435,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two-story brick and siding home in a Houston suburb with a gray architectural shingle roof and a young live oak in the front yard
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two-story brick and tan siding home in a Houston suburb with a clean gray architectural shingle roof with several gables, a young live oak and a green lawn, a wide driveway, flat land, bright blue sky with a few white clouds. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 47. houston-home-roof-from-street-afternoon.jpg
+## 37. houston-home-roof-from-street-afternoon.jpg
 
 - File name: `houston-home-roof-from-street-afternoon.jpg`
 - Size: 1200x800 px
@@ -533,7 +443,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Single-story brick ranch home with a charcoal shingle roof and a large live oak, seen from across a quiet Houston street
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story red brick ranch home with a charcoal architectural shingle roof and a large live oak shading part of the roof, seen from across a quiet Houston street in warm afternoon light, green lawn, flower bed, bright blue sky. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 48. baytown-older-home-shingle-roof-live-oak.jpg
+## 38. baytown-older-home-shingle-roof-live-oak.jpg
 
 - File name: `baytown-older-home-shingle-roof-live-oak.jpg`
 - Size: 1200x800 px
@@ -541,7 +451,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Older single-story wood and brick home in Baytown with a faded shingle roof under a large live oak
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. An older single-story home with white wood siding and a brick front in an established Baytown, Texas neighborhood, a faded gray three-tab shingle roof with a small front gable, a huge spreading live oak over the yard, a gravel driveway, flat land and a bright blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 49. baytown-roofers-storm-repair-shingles.jpg
+## 39. baytown-roofers-storm-repair-shingles.jpg
 
 - File name: `baytown-roofers-storm-repair-shingles.jpg`
 - Size: 1200x800 px
@@ -549,7 +459,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Roofers replacing wind-torn shingles on a Baytown home after a storm, with a blue tarp folded on the ridge
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Two roofers in harnesses, seen from behind at a distance, replacing a strip of wind-torn gray shingles on a single-story Baytown, Texas home after a storm, a folded blue tarp on the ridge, broken limbs piled by the curb, flat land and a bright clearing sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 50. houston-office-building-roof-coating.jpg
+## 40. houston-office-building-roof-coating.jpg
 
 - File name: `houston-office-building-roof-coating.jpg`
 - Size: 1200x800 px
@@ -557,7 +467,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two-story suburban Houston office building with a freshly coated bright white low-slope roof
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two-story tan brick suburban Houston office building seen from across a landscaped parking lot, its low-slope roof freshly coated bright white and edged with dark metal coping, two rooftop air conditioning units, live oaks and a retention pond in the foreground, flat Gulf Coast land, clear blue sky. Realistic photo, no text, no logos, no signs, no house numbers, no people.
 
-## 51. houston-strip-center-low-slope-roof.jpg
+## 41. houston-strip-center-low-slope-roof.jpg
 
 - File name: `houston-strip-center-low-slope-roof.jpg`
 - Size: 1200x800 px
@@ -565,7 +475,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Single-story suburban Houston shopping strip with a flat white roof, parapet walls and rooftop air conditioning units
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story suburban Houston shopping strip seen from a slight elevation across a parking lot, its flat white membrane roof edged by a low parapet wall, several rooftop air conditioning units and a drain scupper visible, crape myrtles along the sidewalk, flat Gulf Coast land, bright blue sky with a few clouds. Realistic photo, no text, no logos, no signs, no house numbers, no recognizable faces.
 
-## 52. houston-warehouse-roof-drain-scupper.jpg
+## 42. houston-warehouse-roof-drain-scupper.jpg
 
 - File name: `houston-warehouse-roof-drain-scupper.jpg`
 - Size: 1200x800 px
@@ -573,7 +483,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Low-slope membrane roof on a Houston warehouse with a clean roof drain and an overflow scupper through the parapet
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A close but wide view across a light gray membrane roof on a Houston warehouse, a clean round roof drain with a metal strainer in the foreground and a rectangular overflow scupper cut through the parapet wall on the right third, a rooftop air conditioning unit on a curb in the distance, flat land and a bright blue sky beyond. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 53. conroe-new-subdivision-roof-row.jpg
+## 43. conroe-new-subdivision-roof-row.jpg
 
 - File name: `conroe-new-subdivision-roof-row.jpg`
 - Size: 1200x800 px
@@ -581,7 +491,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Row of new two-story homes with matching gray shingle roofs on a young street in a Conroe subdivision
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A row of new two-story brick and stone homes with matching weathered gray architectural shingle roofs along a young street in a growing Conroe, Texas subdivision, small newly planted trees, a strip of tall pines left standing behind the houses, wide concrete street, flat land, bright blue sky with a few clouds. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 54. conroe-older-frame-house-new-roof.jpg
+## 44. conroe-older-frame-house-new-roof.jpg
 
 - File name: `conroe-older-frame-house-new-roof.jpg`
 - Size: 1200x800 px
@@ -589,7 +499,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Older one-story wood frame house with a new charcoal shingle roof and a deep front porch on a shaded street near downtown Conroe
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. An older one-story white wood frame house with a deep front porch and a freshly installed charcoal gray architectural shingle roof on a quiet shaded street near downtown Conroe, Texas, a large live oak and two pines in the yard, a narrow concrete walk, flat land, bright clear afternoon sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 55. houston-roofer-ladder-at-gutter-inspection.jpg
+## 45. houston-roofer-ladder-at-gutter-inspection.jpg
 
 - File name: `houston-roofer-ladder-at-gutter-inspection.jpg`
 - Size: 1200x800 px
@@ -597,7 +507,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Aluminum ladder leaning against the gutter of a single-story brick home with a gray shingle roof, a roofer at the base looking up
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. An aluminum extension ladder leaning against the gutter of a single-story brick home with a gray shingle roof in a Houston neighborhood, a roofer in a work shirt and cap at the base seen from behind looking up at the roof edge, green lawn, bright morning sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 56. houston-attic-hatch-cleared-for-roofer.jpg
+## 46. houston-attic-hatch-cleared-for-roofer.jpg
 
 - File name: `houston-attic-hatch-cleared-for-roofer.jpg`
 - Size: 1200x800 px
@@ -605,7 +515,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Open attic hatch in a hallway ceiling of a Houston home with a pull-down ladder and a clear floor below
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A bright hallway in a Houston home with a pull-down attic ladder lowered from an open ceiling hatch, a clear wood floor below, a window with daylight at the end of the hall. Realistic photo, no text, no logos, no people.
 
-## 57. door-knock-after-storm-houston.jpg
+## 47. door-knock-after-storm-houston.jpg
 
 - File name: `door-knock-after-storm-houston.jpg`
 - Size: 1200x800 px
@@ -613,7 +523,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Front porch of a Houston brick home after a storm with wet steps, scattered leaves and a closed front door
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. The covered front porch of a single-story red brick home in greater Houston the morning after a thunderstorm, wet concrete steps, scattered oak leaves and a small fallen branch on the lawn, the front door closed, sunlight breaking through clearing clouds, flat suburban street behind. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 58. houston-street-new-roofs-after-storm.jpg
+## 48. houston-street-new-roofs-after-storm.jpg
 
 - File name: `houston-street-new-roofs-after-storm.jpg`
 - Size: 1200x800 px
@@ -621,7 +531,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Row of one and two story brick homes on a Houston suburban street, two of them with fresh dark shingle roofs and a roll-off dumpster in a driveway
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A quiet suburban street in greater Houston lined with one and two story brick homes, two of the roofs freshly reshingled in dark charcoal architectural shingles while the neighbors' roofs look weathered, a plain roll-off dumpster in one driveway, live oaks and crape myrtles, flat land, bright midday sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 59. roofing-contract-kitchen-table-houston.jpg
+## 49. roofing-contract-kitchen-table-houston.jpg
 
 - File name: `roofing-contract-kitchen-table-houston.jpg`
 - Size: 1200x800 px
@@ -629,7 +539,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Printed roofing estimate, a certificate of insurance and a pen on a kitchen table in a bright Houston home
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A bright kitchen table in a suburban Houston home with a printed multi-page roofing estimate, a one-page insurance certificate and a pen laid out, a coffee mug, a window behind showing a green backyard and the edge of a neighbor's shingle roof in sunshine. Realistic photo, no text legible on the papers, no logos, no house numbers, no recognizable faces.
 
-## 60. houston-homeowner-checking-roof-from-yard.jpg
+## 50. houston-homeowner-checking-roof-from-yard.jpg
 
 - File name: `houston-homeowner-checking-roof-from-yard.jpg`
 - Size: 1200x800 px
@@ -637,7 +547,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Homeowner standing in a front yard looking up at a gray shingle roof with a phone in hand, seen from behind
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A homeowner seen from behind standing on the lawn of a one-story Houston home, holding a phone up to photograph a gray asphalt shingle roof with a few lifted shingles near the ridge, a live oak to the side, bright clear morning. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 61. houston-garage-flat-roof-new-membrane.jpg
+## 51. houston-garage-flat-roof-new-membrane.jpg
 
 - File name: `houston-garage-flat-roof-new-membrane.jpg`
 - Size: 1200x800 px
@@ -645,7 +555,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Detached garage behind a Houston bungalow with a newly installed light gray flat roof membrane
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A detached two-car garage behind a renovated Houston bungalow, its low flat roof newly covered in a smooth light gray membrane with crisp metal edge trim and a gutter, positioned on the right third of the frame, a pecan tree and green backyard lawn, bright blue sky. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 62. houston-modern-home-flat-roof-scupper.jpg
+## 52. houston-modern-home-flat-roof-scupper.jpg
 
 - File name: `houston-modern-home-flat-roof-scupper.jpg`
 - Size: 1200x800 px
@@ -653,7 +563,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Modern two-story Houston home with a flat roof, a metal parapet edge and a scupper with a downspout on the side wall
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A modern two-story Houston home with stucco and dark metal trim and a flat roof, a neat metal parapet cap and a square scupper draining into a downspout on the side wall on the right third of the frame, young oak trees and a small lawn, bright blue sky. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 63. friendswood-county-line-neighborhood-roofs.jpg
+## 53. friendswood-county-line-neighborhood-roofs.jpg
 
 - File name: `friendswood-county-line-neighborhood-roofs.jpg`
 - Size: 1200x800 px
@@ -661,7 +571,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Row of single-story and two-story Friendswood homes with shingle roofs under mature trees on a bright afternoon
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A gently curving residential street in Friendswood, Texas lined with single-story brick homes and one two-story home, each with a brown or gray asphalt shingle roof, mature oaks and pines between the houses, mowed lawns, flat land, bright afternoon sun and a clear sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 64. houston-dented-gutter-hail-marks.jpg
+## 54. houston-dented-gutter-hail-marks.jpg
 
 - File name: `houston-dented-gutter-hail-marks.jpg`
 - Size: 1200x800 px
@@ -669,7 +579,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Close view of an aluminum gutter and downspout dented by hail on a brick home, with a shingle roof edge above
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Close view of a white aluminum gutter and downspout on a brick Houston home covered in small round hail dents, the edge of a gray asphalt shingle roof above, a few hailstones melting on the ground, bright clearing sky. Realistic photo, no text, no logos, no people.
 
-## 65. houston-printed-checklist-on-fridge.jpg
+## 55. houston-printed-checklist-on-fridge.jpg
 
 - File name: `houston-printed-checklist-on-fridge.jpg`
 - Size: 1200x800 px
@@ -677,7 +587,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Printed two-page checklist held by a magnet on a kitchen refrigerator in a bright Houston home
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Two printed pages held by a round magnet on the door of a white kitchen refrigerator in a bright Houston home, a window with daylight and a green plant beside it. Realistic photo, no readable text, no logos, no people. Bright, clearly visible, realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 66. houston-hail-dented-gutter-closeup.jpg
+## 56. houston-hail-dented-gutter-closeup.jpg
 
 - File name: `houston-hail-dented-gutter-closeup.jpg`
 - Size: 1200x800 px
@@ -685,7 +595,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Close view of an aluminum gutter and downspout covered in small round hail dents beside a gray shingle roof edge
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A close but wide view of the corner of a suburban Houston home after a hailstorm, a white aluminum gutter and downspout covered in small round dents, the edge of a gray asphalt shingle roof above with scattered granules in the gutter, beige brick wall, bright daylight with a blue sky. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 67. houston-insurance-adjuster-roof-visit.jpg
+## 57. houston-insurance-adjuster-roof-visit.jpg
 
 - File name: `houston-insurance-adjuster-roof-visit.jpg`
 - Size: 1200x800 px
@@ -693,7 +603,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Insurance adjuster with a clipboard and a roofer looking up at a hail-damaged shingle roof from a Houston driveway
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story brick home in a Houston suburb after a hailstorm, an insurance adjuster in a polo shirt holding a clipboard and a roofer in a cap standing in the driveway looking up at a gray shingle roof with visible scuffs, a ladder already set against the gutter, wet pavement, green lawn and a bright clearing sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 68. houston-hail-dented-gutter-ac-unit.jpg
+## 58. houston-hail-dented-gutter-ac-unit.jpg
 
 - File name: `houston-hail-dented-gutter-ac-unit.jpg`
 - Size: 1200x800 px
@@ -701,7 +611,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Dented aluminum gutter and downspout on a brick home with an outdoor air conditioner unit below
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. The side yard of a two-story red brick Houston home after a hailstorm, a white aluminum gutter and downspout covered in small round dents, an outdoor air conditioner unit below with slightly bent fins, a scatter of shingle granules on the concrete pad, green St. Augustine grass, bright afternoon light. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 69. houston-homeowner-reading-roof-contract.jpg
+## 59. houston-homeowner-reading-roof-contract.jpg
 
 - File name: `houston-homeowner-reading-roof-contract.jpg`
 - Size: 1200x800 px
@@ -709,7 +619,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Hands holding a printed roofing contract at a dining table with a pen and reading glasses beside it
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Close view of hands holding a multi-page printed contract at a wooden dining table in a bright Houston home, a pen and reading glasses beside it, a window with daylight in the soft background. Realistic photo, no readable text, no logos, no faces. Bright, clearly visible, realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 70. phone-showing-call-screen-kitchen-counter.jpg
+## 60. phone-showing-call-screen-kitchen-counter.jpg
 
 - File name: `phone-showing-call-screen-kitchen-counter.jpg`
 - Size: 1200x800 px
@@ -717,7 +627,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Smartphone lying on a kitchen counter next to a notepad with a written list of roof problems, window light in the background
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A smartphone lying face up on a light kitchen counter in a Houston home next to a notepad with a short handwritten list and a pen, a coffee mug, a bright window with green trees outside, soft daylight. Realistic photo, no readable text on the screen or notepad, no logos, no people. Bright, clearly visible, realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 71. houston-attic-hot-roof-deck.jpg
+## 61. houston-attic-hot-roof-deck.jpg
 
 - File name: `houston-attic-hot-roof-deck.jpg`
 - Size: 1200x800 px
@@ -725,7 +635,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Inside a Houston attic on a summer afternoon with sunlight through a ridge vent and insulation between the ceiling joists
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. The inside of a greater Houston attic on a bright summer afternoon, plywood roof deck and wooden rafters overhead, a strip of daylight visible through a ridge vent, soffit vent light along the eaves, fluffy insulation between the ceiling joists, slight heat haze. Realistic photo, no text, no logos, no people.
 
-## 72. houston-soffit-ridge-vent-roof.jpg
+## 62. houston-soffit-ridge-vent-roof.jpg
 
 - File name: `houston-soffit-ridge-vent-roof.jpg`
 - Size: 1200x800 px
@@ -733,7 +643,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Eave of a Houston home showing a perforated soffit vent below and a shingle-covered ridge vent along the peak above
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A low-angle view from the yard of a greater Houston two-story home with tan siding and a gray architectural shingle roof, a white perforated soffit vent running along the eave in the foreground and a continuous shingle-covered ridge vent along the peak above, a crape myrtle in bloom, bright blue sky. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 73. humble-older-frame-home-new-roof.jpg
+## 63. humble-older-frame-home-new-roof.jpg
 
 - File name: `humble-older-frame-home-new-roof.jpg`
 - Size: 1200x800 px
@@ -741,7 +651,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Small older wood frame house in Humble with a fresh charcoal shingle roof, white siding and a pine tree beside it
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A small older single-story wood frame house with white lap siding and a freshly installed charcoal asphalt shingle roof with clean new drip edge, on a modest lot in the older part of Humble, Texas, a tall pine beside the house, a gravel driveway, green grass, flat land, bright clear sky. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 74. humble-west-fork-pines-shingle-roofs.jpg
+## 64. humble-west-fork-pines-shingle-roofs.jpg
 
 - File name: `humble-west-fork-pines-shingle-roofs.jpg`
 - Size: 1200x800 px
@@ -749,7 +659,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Pine woods along the West Fork of the San Jacinto River near Humble with shingle roofs of homes showing through the trees
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. The wide, sandy-banked West Fork of the San Jacinto River near Humble, Texas on a bright day, tall pines and hardwoods along the bank, the dark asphalt shingle roofs of a few brick homes showing through the trees on the right third of the frame, calm water, blue sky with soft clouds. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 75. league-city-roof-repair-small-patch-ranch-home.jpg
+## 65. league-city-roof-repair-small-patch-ranch-home.jpg
 
 - File name: `league-city-roof-repair-small-patch-ranch-home.jpg`
 - Size: 1200x800 px
@@ -757,7 +667,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Single-story brick ranch home in League City with a small section of fresh shingles near a roof vent
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story tan brick ranch home in an established League City, Texas neighborhood, its weathered brown asphalt shingle roof showing one small, neat patch of slightly darker new shingles beside a plumbing vent, a crape myrtle in bloom by the porch, a mowed green lawn, flat land, bright blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 76. houston-acreage-barn-metal-roof.jpg
+## 66. houston-acreage-barn-metal-roof.jpg
 
 - File name: `houston-acreage-barn-metal-roof.jpg`
 - Size: 1200x800 px
@@ -765,7 +675,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Red barn and open equipment shed with silver ribbed metal roofs on flat pasture outside Houston
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A red barn and an open equipment shed with silver ribbed exposed-fastener metal roofs on flat green pasture in rural Montgomery or Waller County outside Houston, positioned on the right third of the frame, a wire fence and a few pine trees, bright midday sun and a clear blue sky. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 77. houston-carport-metal-roof-fasteners.jpg
+## 67. houston-carport-metal-roof-fasteners.jpg
 
 - File name: `houston-carport-metal-roof-fasteners.jpg`
 - Size: 1200x800 px
@@ -773,7 +683,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Metal carport roof beside a ranch house on a wooded lot near Houston with neat rows of screws along the panel ribs
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A wide open metal carport with a tan ribbed exposed-fastener metal roof beside a brick ranch house on a wooded acreage lot north of Houston, neat rows of screw heads visible along the panel ribs on the right third of the frame, tall pines, a gravel drive, bright daylight and blue sky. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 78. houston-metal-roof-after-hailstorm.jpg
+## 68. houston-metal-roof-after-hailstorm.jpg
 
 - File name: `houston-metal-roof-after-hailstorm.jpg`
 - Size: 1200x800 px
@@ -781,7 +691,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Close view of a light gray standing seam metal roof on a Houston home with scattered small hail dents catching low sunlight
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A close but wide view along a light gray standing seam metal roof on a Houston home after a hailstorm, low afternoon sunlight raking across the panels to show scattered small round dents on the right third of the frame, a gutter with a few melting hailstones, green trees and a clearing blue sky beyond. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 79. pasadena-ranch-home-new-shingle-roof.jpg
+## 69. pasadena-ranch-home-new-shingle-roof.jpg
 
 - File name: `pasadena-ranch-home-new-shingle-roof.jpg`
 - Size: 1200x800 px
@@ -789,7 +699,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Brick ranch home in Pasadena with a freshly installed charcoal shingle roof, a pecan tree and a wide front lawn
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story tan brick ranch home in Pasadena, Texas with a brand new charcoal architectural shingle roof and clean white drip edge, a large pecan tree shading part of the yard, a wide green lawn and a concrete driveway, flat land, bright blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 80. pasadena-roofer-replacing-decking-tear-off.jpg
+## 70. pasadena-roofer-replacing-decking-tear-off.jpg
 
 - File name: `pasadena-roofer-replacing-decking-tear-off.jpg`
 - Size: 1200x800 px
@@ -797,7 +707,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Roofers replacing a few sheets of plywood decking on a stripped residential roof in Pasadena, Texas
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Two roofers in hard hats and harnesses, seen from a distance with faces not visible, fitting a new sheet of pale plywood decking onto a stripped single-story roof with dark felt partly rolled out, an older brick ranch home in Pasadena, Texas, pecan trees and a bright blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 81. houston-roof-wall-kickout-flashing.jpg
+## 71. houston-roof-wall-kickout-flashing.jpg
 
 - File name: `houston-roof-wall-kickout-flashing.jpg`
 - Size: 1200x800 px
@@ -805,7 +715,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Lower roof meeting the siding of a second story wall with metal step flashing and a kickout flashing turning water into the gutter
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Exterior of a two-story Houston home where a lower first-floor roof of gray asphalt shingles meets the light tan lap siding of the second story, a neat line of metal step flashing along the joint and a bent metal kickout flashing at the bottom directing water into a white seamless gutter, crape myrtle in bloom below, bright blue sky. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 82. houston-attic-roof-decking-inspection.jpg
+## 72. houston-attic-roof-decking-inspection.jpg
 
 - File name: `houston-attic-roof-decking-inspection.jpg`
 - Size: 1200x800 px
@@ -813,7 +723,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Flashlight beam on the underside of plywood roof decking and rafters in a Houston attic showing a dark water stain
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Inside a Houston home attic, a bright flashlight beam lighting the underside of plywood roof decking and wooden rafters, a darker water stain on one sheet of decking near a plumbing vent pipe, fiberglass insulation below, daylight glowing through a ridge vent along the peak. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 83. houston-attic-air-handler-drain-pan.jpg
+## 73. houston-attic-air-handler-drain-pan.jpg
 
 - File name: `houston-attic-air-handler-drain-pan.jpg`
 - Size: 1200x800 px
@@ -821,7 +731,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Air conditioning air handler sitting in a metal drain pan in a Houston attic with a white condensate pipe running off to the side
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A clean residential attic in a Houston home, a gray air conditioning air handler resting in a shallow metal secondary drain pan on a wooden platform, a white PVC condensate drain line running away along the rafters, pink fiberglass insulation between the joists, a work light brightening the space, plywood roof decking visible above. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 84. houston-ceiling-water-stain-bucket.jpg
+## 74. houston-ceiling-water-stain-bucket.jpg
 
 - File name: `houston-ceiling-water-stain-bucket.jpg`
 - Size: 1200x800 px
@@ -829,7 +739,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Brown water stain spreading across a white bedroom ceiling with a bucket and towels on the floor below
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Interior of a bright Houston bedroom with white walls, a round brown water stain spreading across the flat white ceiling near a corner, a plastic bucket and folded towels on the wood floor directly below, a bed and dresser moved away from the spot, daylight through a window with green trees outside. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 85. houston-ceiling-leak-bucket-living-room.jpg
+## 75. houston-ceiling-leak-bucket-living-room.jpg
 
 - File name: `houston-ceiling-leak-bucket-living-room.jpg`
 - Size: 1200x800 px
@@ -837,7 +747,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Bucket on a towel catching drips from a stained ceiling in a Houston living room with furniture moved aside
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. The living room of a Houston home during a rainstorm, a brown water stain on the white ceiling with drips falling into a plastic bucket set on folded towels, a sofa and lamp pushed against the far wall and covered in clear plastic sheeting, rain visible on the window, soft daylight. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 86. houston-brick-home-roof-repair-patch.jpg
+## 76. houston-brick-home-roof-repair-patch.jpg
 
 - File name: `houston-brick-home-roof-repair-patch.jpg`
 - Size: 1200x800 px
@@ -845,7 +755,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Single-story brick home in a Houston neighborhood with a small section of new dark shingles on an otherwise weathered roof
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story red brick ranch home in an established Houston neighborhood, its weathered gray asphalt shingle roof showing one small, neat rectangle of slightly darker new shingles near a plumbing vent, a mature live oak at the edge of the yard, green lawn, bright blue sky. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 87. houston-ranch-home-roof-measuring.jpg
+## 77. houston-ranch-home-roof-measuring.jpg
 
 - File name: `houston-ranch-home-roof-measuring.jpg`
 - Size: 1200x800 px
@@ -853,7 +763,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Single-story Houston ranch home with a weathered gray shingle roof and a roofer measuring one slope with a tape
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story brick ranch home in an older Houston neighborhood with a weathered gray three-tab shingle roof, one roofer in a hard hat and harness kneeling near the ridge stretching a measuring tape along a slope, a crepe myrtle and a green lawn in front, flat land and a clear blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 88. houston-roof-tear-off-decking.jpg
+## 78. houston-roof-tear-off-decking.jpg
 
 - File name: `houston-roof-tear-off-decking.jpg`
 - Size: 1200x800 px
@@ -861,7 +771,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Roof slope stripped to plywood decking during a tear-off, with a few lighter new sheets set among older darker ones
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A sloped residential roof in suburban Houston halfway through a tear-off, old shingles removed to expose plywood decking, several lighter new plywood sheets fitted among older darker sheets, rolls of synthetic underlayment staged near the ridge, two roofers in harnesses working in the distance, pine trees and a bright blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 89. houston-reroof-tear-off-trailer-driveway.jpg
+## 79. houston-reroof-tear-off-trailer-driveway.jpg
 
 - File name: `houston-reroof-tear-off-trailer-driveway.jpg`
 - Size: 1200x800 px
@@ -869,7 +779,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Roofing crew removing old shingles from a single story Houston home with a debris trailer parked in the driveway
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story brick ranch home in a Houston neighborhood during a roof replacement, half the roof stripped to clean plywood decking and the other half still covered in old gray shingles, roofers in harnesses working near the ridge, a covered debris trailer parked in the concrete driveway, pine trees behind, bright morning sun. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 90. houston-two-story-home-new-architectural-shingle-roof.jpg
+## 80. houston-two-story-home-new-architectural-shingle-roof.jpg
 
 - File name: `houston-two-story-home-new-architectural-shingle-roof.jpg`
 - Size: 1200x800 px
@@ -877,7 +787,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two story brick and siding home in a Houston suburb with a freshly installed charcoal architectural shingle roof
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two-story suburban Houston home with tan brick on the lower floor and light siding above, a freshly installed charcoal architectural asphalt shingle roof with crisp straight lines and new ridge caps, a young live oak and a trimmed lawn, flat Gulf Coast land, bright blue sky with a few white clouds. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 91. alvin-storm-clouds-over-farm-house-roof.jpg
+## 81. alvin-storm-clouds-over-farm-house-roof.jpg
 
 - File name: `alvin-storm-clouds-over-farm-house-roof.jpg`
 - Size: 1200x800 px
@@ -885,7 +795,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Dark storm clouds building over a one story farmhouse with a metal roof and open fields near Alvin
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A tall line of dark gray storm clouds rolling in over flat green farmland near Alvin, Texas, with a one story white farmhouse with a silver metal roof and a red barn on the right third of the frame still lit by bright late afternoon sun, pecan trees and a gravel drive. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 92. alvin-subdivision-two-story-shingle-roof.jpg
+## 82. alvin-subdivision-two-story-shingle-roof.jpg
 
 - File name: `alvin-subdivision-two-story-shingle-roof.jpg`
 - Size: 1200x800 px
@@ -893,7 +803,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two story brick home with a brown architectural shingle roof and a young oak tree in a newer subdivision in Alvin
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two story brick and stone home in a newer subdivision in Alvin, Texas with a brown architectural shingle roof, several gables and a two car garage, a young live oak and fresh sod in the front yard, flat open land and a wide blue sky with soft clouds, bright afternoon sun. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 93. atascocita-lake-houston-shore-homes.jpg
+## 83. atascocita-lake-houston-shore-homes.jpg
 
 - File name: `atascocita-lake-houston-shore-homes.jpg`
 - Size: 1200x800 px
@@ -901,7 +811,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Brick homes with shingle roofs along the wooded western shore of Lake Houston near Atascocita on a bright day
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. The calm, wide water of Lake Houston seen from the western shore near Atascocita, Texas, a grassy bank with tall pines, and on the right third of the frame a row of two-story brick lakeside homes with gray and brown shingle roofs and small docks, bright morning sun, blue sky with soft clouds. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 94. atascocita-roof-repair-step-flashing.jpg
+## 84. atascocita-roof-repair-step-flashing.jpg
 
 - File name: `atascocita-roof-repair-step-flashing.jpg`
 - Size: 1200x800 px
@@ -909,7 +819,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: New metal step flashing and fresh shingles where a lower roof meets the brick wall of a two-story Atascocita home
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two-story brick home in a suburban Atascocita, Texas neighborhood seen from the yard, on the right third of the frame a lower one-story roof section meeting the brick second-story wall, with a strip of fresh shingles and new bright metal step flashing along the joint, pines in the background, bright clear day. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 95. channelview-carpenters-bayou-homes-after-storm.jpg
+## 85. channelview-carpenters-bayou-homes-after-storm.jpg
 
 - File name: `channelview-carpenters-bayou-homes-after-storm.jpg`
 - Size: 1200x800 px
@@ -917,7 +827,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Row of single-story homes near a grassy bayou bank in Channelview after a storm, with a few missing shingles on one roof
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A short row of single-story brick homes beside a grassy bayou bank in east Harris County after a storm, one roof showing a few missing gray shingles and a scattering of small branches on the lawn, the bayou running high but inside its banks, flat land, clearing blue sky with white clouds. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 96. channelview-ranch-home-roof-pine-needles.jpg
+## 86. channelview-ranch-home-roof-pine-needles.jpg
 
 - File name: `channelview-ranch-home-roof-pine-needles.jpg`
 - Size: 1200x800 px
@@ -925,7 +835,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Single-story ranch home in Channelview with pine needles collected in the roof valley and along the gutter
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story brick ranch home in Channelview, Texas with a brown asphalt shingle roof, a long drift of rust-colored pine needles collected in one roof valley and along the gutter, two tall pines beside the house, a mowed lawn, flat land and a bright blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 97. cypress-bridgeland-new-home-roofline-lake.jpg
+## 87. cypress-bridgeland-new-home-roofline-lake.jpg
 
 - File name: `cypress-bridgeland-new-home-roofline-lake.jpg`
 - Size: 1200x800 px
@@ -933,7 +843,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Newer two-story homes with matching gray shingle roofs along a curving lakeside street in a Cypress master-planned community
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A row of newer two-story brick and stone homes with matching charcoal gray architectural shingle roofs along a curving street beside a neighborhood lake in a Cypress, Texas master-planned community, young trees staked in the front yards, a paved trail along the water, flat open land and a bright blue sky with a few clouds. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 98. cypress-copperfield-era-brick-ranch-roof.jpg
+## 88. cypress-copperfield-era-brick-ranch-roof.jpg
 
 - File name: `cypress-copperfield-era-brick-ranch-roof.jpg`
 - Size: 1200x800 px
@@ -941,7 +851,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Single-story brick ranch home with a faded brown shingle roof under mature pine and oak trees on a quiet Cypress street
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story red brick ranch home from the early 1980s on a quiet street in an established Cypress, Texas subdivision, a faded brown three-tab asphalt shingle roof with a low gable, tall loblolly pines and a spreading live oak shading the yard, a two-car driveway, flat green lawns, bright late morning sun and a clear blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 99. katy-new-subdivision-street-shingle-roofs.jpg
+## 89. katy-new-subdivision-street-shingle-roofs.jpg
 
 - File name: `katy-new-subdivision-street-shingle-roofs.jpg`
 - Size: 1200x800 px
@@ -949,7 +859,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Row of newer two-story homes with matching gray shingle roofs along a curving street in a Katy subdivision
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A curving residential street in a newer Katy, Texas subdivision, a row of two-story brick and siding homes with matching gray architectural shingle roofs and gable ends, small young trees in each front yard, flat open land beyond the last rooftops, bright midday sun and a clear blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 100. katy-roofer-checking-flashing-two-story-home.jpg
+## 90. katy-roofer-checking-flashing-two-story-home.jpg
 
 - File name: `katy-roofer-checking-flashing-two-story-home.jpg`
 - Size: 1200x800 px
@@ -957,7 +867,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Roofer in a harness checking the step flashing where a shingle roof meets a brick wall on a two-story home
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A professional roofer wearing a safety harness kneels on the lower slope of a two-story brick home in a Katy, Texas suburb, checking the metal step flashing where the gray architectural shingle roof meets a brick wall, a ladder secured at the eave, young oaks and a flat green neighborhood behind, bright morning light and blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 101. richmond-tx-historic-street-older-homes-roofs.jpg
+## 91. richmond-tx-historic-street-older-homes-roofs.jpg
 
 - File name: `richmond-tx-historic-street-older-homes-roofs.jpg`
 - Size: 1200x800 px
@@ -965,7 +875,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Older one and two-story wood frame homes with gray and brown shingle roofs along a shaded street near downtown Richmond
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A shaded residential street near the historic center of Richmond, Texas, a row of older one and two-story wood frame and brick homes with gray and brown asphalt shingle roofs and front porches, large pecan and live oak trees arching over the street, flat Gulf Coast land, bright afternoon sun and blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 102. richmond-tx-pecan-grove-two-story-home-roof.jpg
+## 92. richmond-tx-pecan-grove-two-story-home-roof.jpg
 
 - File name: `richmond-tx-pecan-grove-two-story-home-roof.jpg`
 - Size: 1200x800 px
@@ -973,7 +883,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two-story brick home with a weathered brown shingle roof under tall pecan trees in an established Richmond area subdivision
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A two-story brick home with a weathered brown architectural shingle roof in an established subdivision near Richmond, Texas, tall pecan trees with a few fallen leaves on the shingles, a wide green lawn and a curving sidewalk, flat Fort Bend County land, bright clear sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 103. spring-attic-spaced-board-decking.jpg
+## 93. spring-attic-spaced-board-decking.jpg
 
 - File name: `spring-attic-spaced-board-decking.jpg`
 - Size: 1200x800 px
@@ -981,7 +891,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Attic view of an older roof showing gaps of daylight between spaced wood boards under the roof covering
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Inside the attic of an older one-story home in Spring, Texas, looking up at the underside of the roof: rows of aged wood boards with narrow strips of daylight between them, rafters running across the frame, a work light on the right third brightening the boards, pink insulation on the attic floor. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 104. spring-klein-street-roof-repair-after-tornado.jpg
+## 94. spring-klein-street-roof-repair-after-tornado.jpg
 
 - File name: `spring-klein-street-roof-repair-after-tornado.jpg`
 - Size: 1200x800 px
@@ -989,7 +899,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Roofers replacing torn shingles on a two-story brick home on a tree-lined street north of Houston after a storm
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. On the right third of the frame, two roofers in harnesses replacing a torn section of gray asphalt shingles on a two-story brick home on a tree-lined street in the Spring and Klein area north of Houston, a few broken pine limbs stacked by the curb, other brick homes with shingle roofs along the street, bright clear sky after a storm. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 105. sugar-land-first-colony-street-roofs.jpg
+## 95. sugar-land-first-colony-street-roofs.jpg
 
 - File name: `sugar-land-first-colony-street-roofs.jpg`
 - Size: 1200x800 px
@@ -997,7 +907,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Row of two-story brick homes with brown and gray shingle roofs along a curving Sugar Land street lined with mature trees
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A gently curving residential street in an established Sugar Land, Texas master-planned neighborhood, a row of two-story brick homes from the 1980s and 1990s with brown and weathered gray asphalt shingle roofs of similar age, mature live oaks and wide green lawns, a lake glimpse in the distance, bright clear sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 106. sugar-land-greatwood-home-architectural-shingles.jpg
+## 96. sugar-land-greatwood-home-architectural-shingles.jpg
 
 - File name: `sugar-land-greatwood-home-architectural-shingles.jpg`
 - Size: 1200x800 px
@@ -1005,7 +915,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Brick and stone single-family home with a newer weathered wood colored architectural shingle roof beside a quiet Sugar Land area lake
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A brick and stone single-family home from the 1990s in a Fort Bend County master-planned community near Sugar Land, Texas, with a newer weathered-wood colored architectural shingle roof, a calm neighborhood lake and walking trail in the foreground, mature trees, flat land, bright late morning sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 107. the-woodlands-greenbelt-roofline-canopy.jpg
+## 97. the-woodlands-greenbelt-roofline-canopy.jpg
 
 - File name: `the-woodlands-greenbelt-roofline-canopy.jpg`
 - Size: 1200x800 px
@@ -1013,7 +923,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Row of shingle roofs half hidden under a pine and oak canopy along a wooded greenbelt path in The Woodlands
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A curving paved hike and bike path through a green wooded greenbelt in The Woodlands, Texas, with the muted brown and gray shingle roofs of brick homes half visible through tall loblolly pines and water oaks on the right, dappled bright sunlight on the path, blue sky through the treetops. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 108. the-woodlands-older-village-home-reroof.jpg
+## 98. the-woodlands-older-village-home-reroof.jpg
 
 - File name: `the-woodlands-older-village-home-reroof.jpg`
 - Size: 1200x800 px
@@ -1021,7 +931,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Older two-story wood and brick home in The Woodlands with a freshly installed muted brown shingle roof and tall pines behind
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A 1980s two-story home with brick and painted wood siding in an older village of The Woodlands, Texas, its roof freshly covered in muted brown architectural shingles with matching dark vents, tall pines and a cleared sunny side yard, a few pine cones on the lawn, bright afternoon sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 109. missouri-city-quail-valley-brick-homes-roofs.jpg
+## 99. missouri-city-quail-valley-brick-homes-roofs.jpg
 
 - File name: `missouri-city-quail-valley-brick-homes-roofs.jpg`
 - Size: 1200x800 px
@@ -1029,7 +939,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Row of 1970s single-story brick homes with weathered brown shingle roofs under tall pines on a Missouri City street
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A quiet residential street in an older Missouri City, Texas golf community, a row of single-story and split-level brick homes from the 1970s with weathered brown and gray asphalt shingle roofs of different ages, tall pines and live oaks, wide lawns and curbs, flat land, clear bright morning sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 110. missouri-city-sienna-two-story-home-complex-roof.jpg
+## 100. missouri-city-sienna-two-story-home-complex-roof.jpg
 
 - File name: `missouri-city-sienna-two-story-home-complex-roof.jpg`
 - Size: 1200x800 px
@@ -1037,7 +947,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two-story stone and brick home with a complex hip and valley shingle roof in a newer Missouri City master planned community
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A large two-story stone and brick home from the 2000s in a newer master-planned community south of Missouri City, Texas, its roof a complex mix of hips, gables and valleys in weathered wood colored architectural shingles, young live oaks, a curving sidewalk and a retention lake in the distance, flat land, bright midday sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 111. tomball-acreage-home-metal-barn-roof.jpg
+## 101. tomball-acreage-home-metal-barn-roof.jpg
 
 - File name: `tomball-acreage-home-metal-barn-roof.jpg`
 - Size: 1200x800 px
@@ -1045,7 +955,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Brick ranch house with a shingle roof beside a metal-roofed barn on a wooded acreage lot near Tomball
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story brick ranch house with a dark asphalt shingle roof on a one-acre wooded lot outside Tomball, Texas, a separate barn with a light gray standing seam metal roof on the right third of the frame, tall loblolly pines behind both, a gravel drive and green pasture grass, flat land, bright midday sky. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 112. tomball-roofer-tearoff-older-home.jpg
+## 102. tomball-roofer-tearoff-older-home.jpg
 
 - File name: `tomball-roofer-tearoff-older-home.jpg`
 - Size: 1200x800 px
@@ -1053,7 +963,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Roofers removing old shingles from a single-story older home near downtown Tomball, exposing the wood decking
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Two roofers in hard hats and harnesses tearing old gray asphalt shingles off a low-pitched roof of a modest single-story older home in Tomball, Texas, a section of bare wood plank decking exposed, a dumpster trailer in the driveway, pines and a live oak around the house, bright clear day. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 113. deer-park-ceiling-stain-bucket-leak.jpg
+## 103. deer-park-ceiling-stain-bucket-leak.jpg
 
 - File name: `deer-park-ceiling-stain-bucket-leak.jpg`
 - Size: 1200x800 px
@@ -1061,7 +971,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Bucket and towels catching a drip under a brown water stain on a white ceiling in a Deer Park home
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A bright hallway inside a single-story Texas home with a white textured ceiling showing a round brown water stain, a gray plastic bucket and folded towels on the wood floor catching a drip, a framed picture moved off the wall and leaning nearby, daylight from a side window. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 114. deer-park-roofer-replacing-pipe-boot.jpg
+## 104. deer-park-roofer-replacing-pipe-boot.jpg
 
 - File name: `deer-park-roofer-replacing-pipe-boot.jpg`
 - Size: 1200x800 px
@@ -1069,7 +979,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Roofer fitting a new rubber pipe boot around a plumbing vent on a gray shingle roof in Deer Park
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Close view of a roofer in work gloves, face not visible, sliding a new black rubber pipe boot over a plumbing vent on a gray asphalt shingle roof, a cracked old boot lying beside it, the top of a live oak and a bright blue Texas sky in the background. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 115. galveston-east-end-victorian-home-roof.jpg
+## 105. galveston-east-end-victorian-home-roof.jpg
 
 - File name: `galveston-east-end-victorian-home-roof.jpg`
 - Size: 1200x800 px
@@ -1077,7 +987,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Two-story Victorian house with a gray shingle roof, tall windows and a deep front porch on a tree-lined Galveston street
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A restored two-story wooden Victorian house in a historic Galveston, Texas neighborhood, painted pale yellow with white trim, a steep gray composition shingle roof with a small gable, tall narrow windows and a deep shaded front porch, raised a few steps above the street, palms and oleanders in the yard, bright blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 116. galveston-roofer-fastening-underlayment-coastal-home.jpg
+## 106. galveston-roofer-fastening-underlayment-coastal-home.jpg
 
 - File name: `galveston-roofer-fastening-underlayment-coastal-home.jpg`
 - Size: 1200x800 px
@@ -1085,7 +995,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Roofer fastening synthetic underlayment on the open deck of a raised coastal home with palm trees and flat island land behind it
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A roofer in a hard hat and harness fastening gray synthetic underlayment over new plywood decking on a raised wooden coastal home on Galveston Island, Texas, roof edge and drip edge visible, palm trees and flat sandy land with the Gulf on the horizon, bright clear day. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 117. kingwood-pine-needles-roof-valley.jpg
+## 107. kingwood-pine-needles-roof-valley.jpg
 
 - File name: `kingwood-pine-needles-roof-valley.jpg`
 - Size: 1200x800 px
@@ -1093,7 +1003,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Close view of pine needles collected in the valley of a dark shingle roof under tall pines in Kingwood
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. The roof of a two-story brick home in a wooded neighborhood northeast of Houston, Texas, seen from across the yard, a deep valley between two gables on the right third of the frame filled with a long drift of brown pine needles on dark asphalt shingles, soft green streaks on the shaded slope, tall pine trunks around the house, bright daylight through the canopy. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 118. la-porte-oak-limb-on-shingle-roof-after-storm.jpg
+## 108. la-porte-oak-limb-on-shingle-roof-after-storm.jpg
 
 - File name: `la-porte-oak-limb-on-shingle-roof-after-storm.jpg`
 - Size: 1200x800 px
@@ -1101,7 +1011,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Large oak limb lying across the shingle roof of a one story home after a storm in La Porte
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A large broken live oak limb resting across the gray asphalt shingle roof of a one story brick home in La Porte, Texas the morning after a hurricane, scattered leaves and small branches on the lawn, a few shingles displaced near the limb, clearing sky with bright sun, flat coastal land. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 119. la-porte-ranch-home-oak-shingle-roof.jpg
+## 109. la-porte-ranch-home-oak-shingle-roof.jpg
 
 - File name: `la-porte-ranch-home-oak-shingle-roof.jpg`
 - Size: 1200x800 px
@@ -1109,7 +1019,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: One story brick ranch home with a brown shingle roof shaded by a large live oak on a quiet La Porte street
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A one story tan brick ranch home in La Porte, Texas with a brown asphalt shingle roof and a single front gable, a large spreading live oak shading part of the roof, a concrete driveway and a green lawn, flat land and a bright blue sky with light clouds. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 120. magnolia-new-subdivision-roofs-fm-1488.jpg
+## 110. magnolia-new-subdivision-roofs-fm-1488.jpg
 
 - File name: `magnolia-new-subdivision-roofs-fm-1488.jpg`
 - Size: 1200x800 px
@@ -1117,7 +1027,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: New two-story homes with gray shingle roofs on a fresh street with young trees in a growing Magnolia subdivision
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A row of new two-story homes in brick and light siding with matching gray architectural shingle roofs on a freshly paved curving street in a growing master-planned community near Magnolia, Texas, young oak trees staked along the sidewalk, a band of tall pines behind the houses, flat land, bright blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 121. magnolia-roofer-metal-porch-roof.jpg
+## 111. magnolia-roofer-metal-porch-roof.jpg
 
 - File name: `magnolia-roofer-metal-porch-roof.jpg`
 - Size: 1200x800 px
@@ -1125,7 +1035,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Roofer fastening a standing seam metal porch roof beside a shingled main roof on a farmhouse style home near Magnolia
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. On the right third of the frame, a roofer in a harness fastening a charcoal standing seam metal panel on the porch roof of a white farmhouse style home near Magnolia, Texas, the main roof covered in dark gray architectural shingles, tall pines behind the house, a wide lawn and gravel drive, bright clear morning. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 122. pearland-roofer-nailing-underlayment-windstorm.jpg
+## 112. pearland-roofer-nailing-underlayment-windstorm.jpg
 
 - File name: `pearland-roofer-nailing-underlayment-windstorm.jpg`
 - Size: 1200x800 px
@@ -1133,7 +1043,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Roofer fastening synthetic underlayment over new decking on a Pearland home before shingles go on
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A roofer in a safety harness fastening gray synthetic underlayment over fresh plywood decking on a two-story brick home in Pearland, Texas, rolls of underlayment and bundles of charcoal shingles staged on the roof, a clear view of the nailing pattern, flat coastal plain and rooftops in the background, bright morning sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 123. pearland-shadow-creek-street-new-roofs.jpg
+## 113. pearland-shadow-creek-street-new-roofs.jpg
 
 - File name: `pearland-shadow-creek-street-new-roofs.jpg`
 - Size: 1200x800 px
@@ -1141,7 +1051,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Street of two-story brick homes from the 2000s in a Pearland master planned community with gray and brown shingle roofs
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A curving street of two-story brick homes from the 2000s in a large master-planned community west of Highway 288 in Pearland, Texas, gray and brown architectural shingle roofs with many hips and gables, young live oaks, a canal lake glimpse at the end of the street, flat coastal plain, bright blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 124. rosenberg-tx-downtown-historic-buildings-roofs.jpg
+## 114. rosenberg-tx-downtown-historic-buildings-roofs.jpg
 
 - File name: `rosenberg-tx-downtown-historic-buildings-roofs.jpg`
 - Size: 1200x800 px
@@ -1149,7 +1059,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Row of restored early 1900s brick commercial buildings on a sunny street in historic downtown Rosenberg
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A row of restored early twentieth century two-story red and buff brick commercial buildings with flat roofs and decorative parapets on a sunny main street in historic downtown Rosenberg, Texas, wide sidewalks, a few young street trees, railroad tracks visible at the far end of the street on the left, bright blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 125. rosenberg-tx-new-subdivision-homes-shingle-roofs.jpg
+## 115. rosenberg-tx-new-subdivision-homes-shingle-roofs.jpg
 
 - File name: `rosenberg-tx-new-subdivision-homes-shingle-roofs.jpg`
 - Size: 1200x800 px
@@ -1157,7 +1067,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Row of newer one and two-story homes with matching brown shingle roofs beside a community lake in a Rosenberg subdivision
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A row of newer one and two-story brick and siding homes with matching brown architectural shingle roofs beside a small community lake with a fountain in a Rosenberg, Texas subdivision, young trees along a curving sidewalk, flat open Fort Bend County land beyond the rooftops, bright afternoon sun and blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 126. seabrook-waterfront-street-coastal-roofs.jpg
+## 116. seabrook-waterfront-street-coastal-roofs.jpg
 
 - File name: `seabrook-waterfront-street-coastal-roofs.jpg`
 - Size: 1200x800 px
@@ -1165,7 +1075,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Raised coastal homes with metal and shingle roofs along a waterfront street in Seabrook on a bright day
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A quiet waterfront street in Seabrook, Texas with raised coastal homes on pilings, one with a silver standing seam metal roof and one with a gray asphalt shingle roof, palms and live oaks bent slightly by the sea breeze, a glimpse of calm bay water and a marina at the end of the street, bright sun and a blue sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 127. stafford-1970s-brick-homes-street-roofs.jpg
+## 117. stafford-1970s-brick-homes-street-roofs.jpg
 
 - File name: `stafford-1970s-brick-homes-street-roofs.jpg`
 - Size: 1200x800 px
@@ -1173,7 +1083,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Quiet Stafford street of single-story 1970s brick homes with brown and gray shingle roofs under mature trees
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A quiet residential street in Stafford, Texas, a row of modest single-story brick homes from the 1970s with low-pitched brown and gray asphalt shingle roofs of different ages, mature oaks and pecan trees, chain link and wood fences, flat land, bright clear afternoon sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 128. stafford-reroof-crew-tear-off-ranch-home.jpg
+## 118. stafford-reroof-crew-tear-off-ranch-home.jpg
 
 - File name: `stafford-reroof-crew-tear-off-ranch-home.jpg`
 - Size: 1200x800 px
@@ -1181,7 +1091,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Roofing crew stripping old shingles from a single-story brick home in Stafford with a dumpster in the driveway
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A roofing crew in safety harnesses stripping worn brown asphalt shingles from the low-pitched roof of a single-story brick ranch home in Stafford, Texas, exposed wood decking and new gray underlayment on part of the roof, a roll-off dumpster in the driveway, a mature oak at the edge of the yard, flat land, bright morning sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 129. texas-city-bay-street-homes-shingle-roofs.jpg
+## 119. texas-city-bay-street-homes-shingle-roofs.jpg
 
 - File name: `texas-city-bay-street-homes-shingle-roofs.jpg`
 - Size: 1200x800 px
@@ -1189,7 +1099,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Row of one story homes with asphalt shingle roofs and palm trees along a flat street near Galveston Bay in Texas City
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A quiet residential street in Texas City, Texas lined with one story brick and wood sided homes, gray and brown asphalt shingle roofs, a couple of palm trees and oleanders, flat land and wide sky, a hint of open bay water at the end of the street, bright midday sun. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 130. texas-city-storm-cleanup-shingles-yard.jpg
+## 120. texas-city-storm-cleanup-shingles-yard.jpg
 
 - File name: `texas-city-storm-cleanup-shingles-yard.jpg`
 - Size: 1200x800 px
@@ -1197,7 +1107,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Torn asphalt shingles and small branches scattered on a lawn in front of a one story brick home after a storm in Texas City
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. The morning after a tropical storm in Texas City, Texas, a one story brick home with a gray shingle roof missing a few shingles near the ridge, torn shingles and small branches scattered on the green lawn, a fallen palm frond by the driveway, flat land, clearing sky with sunshine breaking through. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 131. webster-clear-lake-area-homes-roofs.jpg
+## 121. webster-clear-lake-area-homes-roofs.jpg
 
 - File name: `webster-clear-lake-area-homes-roofs.jpg`
 - Size: 1200x800 px
@@ -1205,7 +1115,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Street of brick homes with gray and brown shingle roofs in the Clear Lake area near Webster on a sunny day
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A residential street of one and two-story brick homes with gray and brown asphalt shingle roofs in the Clear Lake area near Webster, Texas, young live oaks and a few palms along the sidewalk, flat land, bright sun and a clear blue sky with a light haze toward the bay. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 132. galveston-county-raised-home-metal-roof.jpg
+## 122. galveston-county-raised-home-metal-roof.jpg
 
 - File name: `galveston-county-raised-home-metal-roof.jpg`
 - Size: 1200x800 px
@@ -1213,7 +1123,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Raised coastal home on pilings with a light gray metal roof and white siding near Galveston Bay under a clear sky
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A raised coastal home on wooden pilings with white lap siding and a light gray standing seam metal roof near Galveston Bay, salt grass and a few palm trees, a wide flat shoreline in the distance, bright clear sky. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 133. houston-suburb-street-shingle-roofs.jpg
+## 123. houston-suburb-street-shingle-roofs.jpg
 
 - File name: `houston-suburb-street-shingle-roofs.jpg`
 - Size: 1200x800 px
@@ -1221,7 +1131,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Quiet suburban street in greater Houston lined with brick homes with gray and brown shingle roofs and young oak trees
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A quiet curving suburban street in greater Houston lined with one- and two-story brick homes with gray and brown asphalt shingle roofs, young oak trees in the yards, wide sidewalks, flat land, bright blue sky. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 134. houston-roofer-reviewing-estimate-with-homeowner.jpg
+## 124. houston-roofer-reviewing-estimate-with-homeowner.jpg
 
 - File name: `houston-roofer-reviewing-estimate-with-homeowner.jpg`
 - Size: 1200x800 px
@@ -1229,7 +1139,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Roofer in a work shirt showing a printed roof estimate to a homeowner on the front walk of a brick house, faces turned away
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A roofer in a plain work shirt holding a clipboard with a printed estimate and pointing up toward a gray shingle roof, standing beside a homeowner on the front walk of a one-story brick house in a Houston neighborhood, both seen from behind or in profile, ladder leaning on the gutter in the background, bright afternoon. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 135. houston-live-oak-limb-on-roof-after-storm.jpg
+## 125. houston-live-oak-limb-on-roof-after-storm.jpg
 
 - File name: `houston-live-oak-limb-on-roof-after-storm.jpg`
 - Size: 1200x800 px
@@ -1237,7 +1147,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Large live oak limb lying across the shingle roof of a one story brick home after a storm
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story tan brick ranch home in a Houston suburb the morning after a thunderstorm, a large broken live oak limb resting across its gray asphalt shingle roof with a few torn shingles visible, scattered leaves on a green lawn, wet driveway, clearing blue sky with white clouds. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 136. roofer-attic-inspection-after-storm-houston.jpg
+## 126. roofer-attic-inspection-after-storm-houston.jpg
 
 - File name: `roofer-attic-inspection-after-storm-houston.jpg`
 - Size: 1200x800 px
@@ -1245,7 +1155,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Roofer with a flashlight checking the underside of a roof deck in a Houston attic for water stains after a storm
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Inside the attic of a greater Houston home, a roofer seen from behind kneeling on a plank across the ceiling joists and shining a bright flashlight on the underside of the plywood roof deck, a darker water stain visible on one sheet near a rafter, pink insulation below, daylight from a gable vent. Realistic photo, no text, no logos, no recognizable faces.
 
-## 137. storm-damage-photos-from-yard-houston.jpg
+## 127. storm-damage-photos-from-yard-houston.jpg
 
 - File name: `storm-damage-photos-from-yard-houston.jpg`
 - Size: 1200x800 px
@@ -1253,7 +1163,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Homeowner standing in a wet backyard photographing a damaged shingle roof with a phone from the ground
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A homeowner seen from behind standing on a wet lawn in a greater Houston backyard, holding up a phone to photograph a two-story home's asphalt shingle roof with a few missing shingles and a bent gutter, a small branch on the grass, a wooden fence and live oak, bright sky after rain. Realistic photo, no text, no logos, no house numbers, no recognizable faces.
 
-## 138. storm-lifted-shingles-houston-ranch.jpg
+## 128. storm-lifted-shingles-houston-ranch.jpg
 
 - File name: `storm-lifted-shingles-houston-ranch.jpg`
 - Size: 1200x800 px
@@ -1261,7 +1171,7 @@ Total: 139 images (44 heroes at 1920x1080 listed first, then 95 in-body images a
 - Alt text: Single-story Houston ranch home with several shingles flipped up and a few missing along one roof slope after a windstorm
 - Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story tan brick ranch home in a greater Houston neighborhood seen from the street after a windstorm, several gray asphalt shingles folded back and three or four missing along the lower edge of one slope exposing dark underlayment, small branches on the lawn, a wet driveway, clearing sky. Realistic photo, no text, no logos, no house numbers, no people.
 
-## 139. houston-two-story-home-ridge-caps-after-wind.jpg
+## 129. houston-two-story-home-ridge-caps-after-wind.jpg
 
 - File name: `houston-two-story-home-ridge-caps-after-wind.jpg`
 - Size: 1200x800 px
