@@ -1,11 +1,5 @@
 {
  "_note": "Oct 13 2026: Maurice asked to reuse photos in different spots so fewer new images are needed. Each key is a planned image slot; its value is the photo it is cut from. scripts/apply_image_reuse.py crops the source to the slot's size and sets the slot's alt text to describe the source photo.",
- "pasadena-brick-ranch-home-roof-hero.jpg": "friendswood-wooded-street-shingle-roof-hero.jpg",
- "alvin-country-home-metal-roof-pasture-hero.jpg": "humble-main-street-area-home-roof-hero.jpg",
- "atascocita-two-story-brick-home-roof-hero.jpg": "conroe-lake-area-brick-home-roof-hero.jpg",
- "channelview-home-pines-shingle-roof-hero.jpg": "humble-main-street-area-home-roof-hero.jpg",
- "cypress-lakeside-two-story-home-shingle-roof-hero.jpg": "league-city-two-story-brick-home-new-roof-hero.jpg",
- "katy-two-story-brick-home-architectural-shingle-roof-hero.jpg": "houston-neighborhood-roofs-morning-hero.jpg",
  "spring-wooded-ranch-home-shingle-roof-hero.jpg": "friendswood-wooded-street-shingle-roof-hero.jpg",
  "sugar-land-two-story-brick-home-new-roof-hero.jpg": "how-long-roof-lasts-houston-hero.jpg",
  "the-woodlands-forest-home-roof-hero.jpg": "conroe-lake-area-brick-home-roof-hero.jpg",
