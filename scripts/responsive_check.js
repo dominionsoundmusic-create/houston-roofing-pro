@@ -32,7 +32,11 @@ function pages(dir, out = []) {
     const page = await ctx.newPage();
     let errs = [];
     page.on("pageerror", (e) => errs.push(String(e)));
-    page.on("console", (m) => { if (m.type() === "error") errs.push(m.text()); });
+    // Third-party scripts (Google Analytics, Google Translate) are blocked here: the sandbox has no
+    // outside network. Only same-origin failures and real script errors count.
+    await page.route("**/*", (r) => (r.request().url().startsWith(base) ? r.continue() : r.abort()));
+    page.on("console", (m) => { if (m.type() === "error" && !m.text().startsWith("Failed to load resource")) errs.push(m.text()); });
+    page.on("response", (rs) => { if (rs.url().startsWith(base) && rs.status() >= 400) errs.push(rs.status() + " " + rs.url()); });
     const list = width > 1440 ? urls.filter((u) => u === "/" || u.includes("katy-tx") || u === "/roof-repair/") : urls;
     for (const u of list) {
       errs = [];
