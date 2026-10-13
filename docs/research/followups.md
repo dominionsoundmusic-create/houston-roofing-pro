@@ -26,3 +26,6 @@ WebFetch/curl cannot reach outside sites here. These items need search budget in
   damage site's fact-check notes; re-verify them first (Humble history, West Fork gauge 69.18 ft, "more than
   16,000 homes near Lake Houston", Kingwood annexation and TIRZ 10, Tomball gas leak numbers, Eagle Springs and
   Walden on Lake Houston as Atascocita subdivisions, Northpointe and Rosehill Reserve outside Tomball limits).
+- t7: Deer Park (City permit office, roofing permit or registration, housing age, neighborhoods) and
+  Channelview (neighborhoods, housing age) need a research pass. Unverified and left off: NWS 90 to 100 mph
+  derecho gusts in Baytown; Pasadena's own 1996 request; Ike damage on the east sides of Pasadena and Baytown.
