@@ -32,6 +32,9 @@ def page_text(raw):
     m = re.search(r'<div class="page-content"[^>]*>(.*)</main>', raw, re.S)
     body = m.group(1) if m else raw
     body = re.sub(r'<section class="band band--navy cta".*?</section>', " ", body, flags=re.S)
+    # template headings next to excluded link lists and the FAQ block heading are shared by design
+    body = re.sub(r'<h2[^>]*>[^<]*</h2>\s*(?=<ul class="pill-list">)', " ", body)
+    body = re.sub(r'<h2 id="faq-title">[^<]*</h2>', " ", body)
     for pat in DROP:
         body = re.sub(pat, " ", body, flags=re.S)
     body = re.sub(r'<div class="cards">.*?(?=<section|</section>)', " ", body, flags=re.S)

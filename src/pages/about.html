@@ -1,0 +1,74 @@
+---
+type: about
+title: "About Houston Expert Roofers: A Free Line, Not a Roofer"
+description: "Houston Expert Roofers is a free phone line and guide site, not a roofing contractor. Who runs it, how it is paid, and why the guides teach you to check any roofer."
+h1: "About Houston Expert Roofers"
+crumb: "About"
+hero:
+  image: houston-neighborhood-roofs-morning-hero.jpg
+  alt: "Morning light over a row of Houston homes with brick fronts and gray shingle roofs, live oaks along the street"
+  desc: "Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Early morning sunlight over a row of single-story and two-story Houston homes with brick fronts and gray and brown asphalt shingle roofs, mature live oaks along a quiet street, dew on the lawns, flat land, clear pale blue sky. Realistic photo, no text, no logos, no house numbers, no people."
+  lead: "A free phone line and a set of plain-language roofing guides for greater Houston. It answers your call and connects you with an independent local roofer. It does not do roofing work."
+  secondary_label: "How the line works"
+  secondary_href: "/how-it-works/"
+faqs:
+  - q: "Who owns Houston Expert Roofers?"
+    a: "<p>Houston Expert Roofers is a d/b/a of Dominion Digital Group. It operates both the phone line and the website, and it neither is a roofing contractor nor employs roofers.</p>"
+  - q: "Why does one number also answer air conditioning and water damage calls?"
+    a: "<p>The same Houston line serves several home services: roofing, air conditioning and heating, pressure washing and water damage. That is why the automated assistant first asks which one you need, then routes a roofing call to a roofing company.</p>"
+  - q: "Are the roofing companies you connect me with vetted or certified?"
+    a: "<p>The line makes no claim about any company's licensing, insurance, certifications, ratings or reviews, and Texas has no state roofing license to check. That is why the guides on this site explain what to ask for yourself: a certificate of insurance, a written contract, local references and permits where required. See <a href=\"/do-roofers-need-a-license-in-texas/\">how to check a roofer</a>.</p>"
+  - q: "Is the information on this site legal or insurance advice?"
+    a: "<p>No. It is general information gathered from public sources such as the Texas Department of Insurance, city permit offices and the National Weather Service, each listed on the page where it is used. Your insurance policy, your insurer and your city have the final word on your situation.</p>"
+---
+{% block content %}
+<section class="prose">
+  <div class="split">
+    <div>
+      <h2>What Houston Expert Roofers is</h2>
+      <p class="lead">Houston Expert Roofers is two things: a phone number that answers around the clock, and the roofing guides on this website. It is owned by Dominion Digital Group and operates as a d/b/a under that company.</p>
+      <p>The phone line answers with an automated assistant, finds out what is going on with your roof and where you live, and transfers the call to an independent, locally owned roofing company that takes work in that part of greater Houston. If that company cannot pick up, your details go to it for a call back. That is the whole service.</p>
+      <p>The name is the brand of the line, not a claim about any roofer's skill. The roofing companies are separate businesses. They inspect, price and do the work, and you pay them, not the line.</p>
+    </div>
+    {{ img('houston-home-roof-from-street-afternoon.jpg', 'Single-story brick ranch home with a charcoal shingle roof and a large live oak, seen from across a quiet Houston street', 1200, 800, desc='Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story red brick ranch home with a charcoal architectural shingle roof and a large live oak shading part of the roof, seen from across a quiet Houston street in warm afternoon light, green lawn, flower bed, bright blue sky. Realistic photo, no text, no logos, no house numbers, no people.') }}
+  </div>
+</section>
+
+<section class="band band--tint">
+  <div class="wide">
+    <h2>Why the site teaches you to check the roofer</h2>
+    <p class="section-intro">Texas does not license roofing contractors, and every big Houston storm brings a wave of crews that leave when the claims run out. The line cannot vouch for anyone, so the guides give you the questions instead.</p>
+    <div class="grid-3">
+      <div class="panel">
+        <h3>Plain answers</h3>
+        <p>Each service page explains what usually goes wrong on Houston roofs and what a careful repair or replacement should include, so you can follow what the roofer tells you.</p>
+      </div>
+      <div class="panel">
+        <h3>Local rules</h3>
+        <p>Town pages cover permits, homeowner association approvals and the coastal windstorm program, which change from one city line to the next.</p>
+      </div>
+      <div class="panel">
+        <h3>Sources you can read</h3>
+        <p>Facts come from public sources such as the Texas Department of Insurance, city permit offices and the National Weather Service, listed at the bottom of each page.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="prose">
+  <h2>How the line is paid</h2>
+  <div class="split">
+    <div>
+      <p>Calling is free for you, always. Roofing companies may pay the line a referral fee for calls it connects. That fee is the line's only income from roofing calls, and it never appears on anything you pay.</p>
+      <p>Because a company may pay for the referral, you should treat its estimate like any other: read it line by line, ask what each item means, and compare it with another quote if you want one. Nothing about the call obliges you to hire the company.</p>
+      <h3>What you will not find here</h3>
+      <p>No reviews, ratings, star counts, years in business, team photos, license numbers or promises about how fast someone will arrive. The line has none of those to offer honestly, so it does not claim them.</p>
+    </div>
+    {{ img('roof-04-card.jpg', 'Roofer kneeling on a dark shingle roof and looking across the slope during an inspection', 1200, 675) }}
+  </div>
+  {{ m.how_it_works_short() }}
+  {{ m.disclosure() }}
+  <h2>Where calls come from</h2>
+  {{ m.area_pills() }}
+</section>
+{% endblock %}

@@ -1,0 +1,78 @@
+---
+type: page
+title: "Free Hail and Storm Damage Roof Claim Checklist for Houston"
+description: "A free two-page checklist for Houston homeowners after hail or wind: what to photograph, stopping more damage, deductibles, filing the claim and hiring safely."
+h1: "Storm Hit Your Roof? Start With This Checklist"
+crumb: "Storm Claim Checklist"
+hero:
+  image: hail-on-lawn-after-storm-houston-hero.jpg
+  alt: "Hailstones scattered across a green lawn and driveway in front of a brick home with a shingle roof after a spring storm"
+  desc: "Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Hailstones the size of marbles scattered across a green lawn and a concrete driveway in front of a one-story brick home with a gray asphalt shingle roof in a Houston suburb, just after a spring storm, sky clearing to bright blue with sunlight on the wet grass. Realistic photo, no text, no logos, no house numbers, no people."
+  lead: "A free, printable two-page checklist for the hours, days and weeks after a Houston hailstorm or windstorm. Fill in the short form and it opens straight away."
+  secondary_label: "Get the checklist"
+  secondary_href: "#get-it"
+faqs:
+  - q: "Is the checklist really free?"
+    a: "<p>Yes. Enter your first name, email and ZIP code and it opens straight away as a PDF. There is nothing to buy.</p>"
+  - q: "Will someone call me if I fill in the form?"
+    a: "<p>Only if you add your phone number, which asks a local roofer to call you about an inspection. Leave the phone field empty and you simply get the checklist. You can also call the line yourself at any hour.</p>"
+  - q: "Is this checklist legal or insurance advice?"
+    a: "<p>No. It is general information for greater Houston homeowners. Your policy and your insurer have the final word on what is covered and when you must report damage. The <a href=\"/hail-damage-roof-insurance.html\">roof insurance claims guide</a> explains the Texas rules in more depth.</p>"
+  - q: "What should I photograph after hail?"
+    a: "<p>From the ground only: every side of the roof, dented gutters, downspouts and roof vents, the fins on the outdoor air conditioner, window screens, and any shingle pieces or granules in the yard. Inside, every ceiling stain and wet spot, with the date. The <a href=\"/hail-damage-roof-repair/\">hail damage page</a> explains why dented metal matters.</p>"
+---
+{% block content %}
+<section class="prose" id="get-it">
+  <div class="split">
+    <div>
+      <h2>Two printed pages for the days after a storm</h2>
+      <p class="lead">After hail, wind or a tropical storm, the first few days decide a lot: what gets photographed, whether more water gets in, which contractor you trust, and whether the claim is filed in time.</p>
+      <p>The checklist puts all of that on two pages you can print and keep in a drawer before the next storm season. Fill in the form and it opens straight away.</p>
+      <form class="form" name="{{ site.forms.checklist }}" method="POST" action="/hail-claim-checklist/thanks/" data-netlify="true" netlify-honeypot="bot-field">
+        <input type="hidden" name="form-name" value="{{ site.forms.checklist }}">
+        <p class="hp"><label>Leave blank <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+        <label>First name <input name="name" required autocomplete="given-name"></label>
+        <label>Email <input name="email" type="email" required autocomplete="email"></label>
+        <label>ZIP code <input name="zip" required inputmode="numeric"></label>
+        <label>Phone (optional, if you would like a roofer to call about an inspection) <input name="phone" type="tel" autocomplete="tel"></label>
+        <button class="btn btn--orange" type="submit">Get the free checklist</button>
+        <p class="form__note">Your details are not sold. See the <a href="/privacy-policy.html">privacy policy</a>.</p>
+      </form>
+    </div>
+    {{ img('houston-dented-gutter-hail-marks.jpg', 'Close view of an aluminum gutter and downspout dented by hail on a brick home, with a shingle roof edge above', 1200, 800, desc='Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Close view of a white aluminum gutter and downspout on a brick Houston home covered in small round hail dents, the edge of a gray asphalt shingle roof above, a few hailstones melting on the ground, bright clearing sky. Realistic photo, no text, no logos, no people.') }}
+  </div>
+</section>
+
+<section class="band band--tint">
+  <div class="wide">
+    <h2>What the checklist covers</h2>
+    <ol class="steps">
+      <li><strong>Right after the storm.</strong> Power line safety, staying off the roof, and writing down the date, time and hail size.</li>
+      <li><strong>Documenting the damage.</strong> The photos that matter, including gutters, vents, air conditioner fins and screens that show hail size.</li>
+      <li><strong>Stopping more damage.</strong> Buckets, moving belongings, having a roofer tarp an open roof, and keeping every receipt.</li>
+      <li><strong>Your policy.</strong> Percentage deductibles, replacement cost versus actual cash value, and reporting deadlines.</li>
+      <li><strong>Filing and the adjuster's visit.</strong> Why it helps to have the roofer on the roof when the adjuster comes.</li>
+      <li><strong>Hiring safely.</strong> Insurance certificates, a written scope, deposits, and the Texas rule against waiving deductibles.</li>
+      <li><strong>After the work.</strong> Invoices, permits, warranties and asking the insurer to release any held-back depreciation.</li>
+    </ol>
+  </div>
+</section>
+
+<section class="prose">
+  <h2>Print it before the next storm</h2>
+  <div class="split">
+    <div>
+      <p>Atlantic hurricane season runs from June 1 to November 30, and Houston's spring thunderstorms bring hail and straight-line wind of their own. When a storm hits a whole region, roofers book up quickly and door-knockers arrive within days. A list you read in advance makes those days calmer.</p>
+      <p>For more depth, see <a href="/storm-damage-roof-repair/">storm damage roof repair</a>, the <a href="/what-to-do-after-roof-storm-damage/">storm damage steps guide</a> and the <a href="/hail-damage-roof-insurance.html">roof insurance claims guide</a>.</p>
+      {{ m.deductible_note() }}
+    </div>
+    {{ img('roof-03-card.jpg', 'Two roofers on a storm-damaged shingle roof of a white-sided house with a patch of torn shingles', 1200, 675) }}
+  </div>
+  {{ m.safety_box() }}
+  {{ m.disclosure() }}
+  {{ m.sources([
+    {'label': 'NOAA National Hurricane Center: Atlantic hurricane season dates', 'url': 'https://www.nhc.noaa.gov/climo/'},
+    {'label': 'Texas Department of Insurance: Roofing and insurance, know the law', 'url': 'https://www.tdi.texas.gov/Consumer/storms/roofing-and-insurance-know-the-law.html'}
+  ]) }}
+</section>
+{% endblock %}

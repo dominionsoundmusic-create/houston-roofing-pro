@@ -13,7 +13,16 @@ ranch and two-story houses, asphalt shingle, metal and flat roofs, live oaks and
 natural daylight, no text, no logos, no watermarks, no recognizable faces. Every prompt starts
 with: wide cinematic landscape shot, subject positioned on right third of frame, well lit.
 
-Total: 0 images (0 heroes at 1920x1080 listed first, then 0 in-body images at 1200x800).
+Total: 1 images (0 heroes at 1920x1080 listed first, then 1 in-body images at 1200x800).
 
 | # | File name | Size | Page |
 |---:|---|---|---|
+| 1 | houston-brick-home-roof-repair-patch.jpg | 1200x800 | /roof-repair/ |
+
+## 1. houston-brick-home-roof-repair-patch.jpg
+
+- File name: `houston-brick-home-roof-repair-patch.jpg`
+- Size: 1200x800 px
+- Page(s): /roof-repair/
+- Alt text: Single-story brick home in a Houston neighborhood with a small section of new dark shingles on an otherwise weathered roof
+- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A single-story red brick ranch home in an established Houston neighborhood, its weathered gray asphalt shingle roof showing one small, neat rectangle of slightly darker new shingles near a plumbing vent, a mature live oak at the edge of the yard, green lawn, bright blue sky. Realistic photo, no text, no logos, no house numbers, no people.

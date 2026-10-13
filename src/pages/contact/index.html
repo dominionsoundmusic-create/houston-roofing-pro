@@ -1,0 +1,67 @@
+---
+type: contact
+title: "Contact Houston Expert Roofers: Call or Send a Roofing Request"
+description: "Call the free Houston roofing line any hour, or send a short request and an independent local roofing company will call you back about your roof."
+h1: "Call, or Send a Roofing Request"
+crumb: "Contact"
+hero:
+  image: houston-home-office-phone-and-notes-hero.jpg
+  alt: "Kitchen table in a Houston home with a phone, a notepad and a cup of coffee by a bright window"
+  desc: "Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A kitchen table in a bright Houston home with a smartphone, a notepad and pen and a cup of coffee, a large window behind showing a green yard and the edge of a neighbor's shingle roof, morning light, uncluttered left half of the frame. Realistic photo, no readable text, no logos, no people."
+  lead: "For water coming in or storm damage, call: the line answers at any hour. For an inspection, a second opinion or a roof you are starting to worry about, the form works too."
+  secondary_label: "Send a request"
+  secondary_href: "#request"
+cta: false
+faqs:
+  - q: "Is calling or the form faster?"
+    a: "<p>Calling. The assistant picks up day or night and puts you through before you hang up. The form passes your details to a local roofing company, which calls you back when it can. If water is coming in, call, and follow the safe steps on the <a href=\"/roof-repair-emergency.html\">emergency roof repair page</a> while you wait.</p>"
+  - q: "Who receives the details I send?"
+    a: "<p>An independent, locally owned roofing company that takes calls in your area, so it can call you back. Your details are not sold. The <a href=\"/privacy-policy.html\">privacy policy</a> explains how information is handled.</p>"
+  - q: "Is there an email address or office I can visit?"
+    a: "<p>No. Houston Expert Roofers is a phone line and website with no public office or email. Call the number or use the form on this page. Inspections and estimates are arranged directly with the roofing company you are connected with.</p>"
+---
+{% block content %}
+<section class="prose">
+  <div class="split">
+    <div>
+      <h2>Calling is quickest</h2>
+      <p class="lead">For a leak, storm damage or anything happening right now, call <a href="tel:{{ site.business.phone_tel }}">{{ site.business.phone_display }}</a>. An automated assistant answers around the clock and puts you through to a local roofing company.</p>
+      <p>While you wait, keep it safe: stay off the roof, move belongings away from the drip, put a bucket and towels under it, keep people out of any room where the ceiling sags, and photograph the damage from the ground and inside. Report downed power lines to CenterPoint Energy or 911.</p>
+      <p><a class="btn btn--orange btn--big" href="tel:{{ site.business.phone_tel }}">{{ site.cta.primary_label }}</a></p>
+    </div>
+    {{ img('roof-02-card.jpg', 'Roofer kneeling beside a patch of lifted and broken shingles on an asphalt roof', 1200, 675) }}
+  </div>
+</section>
+
+<section class="prose" id="request">
+  <div class="split">
+    <div>
+      <h2>Or send a request</h2>
+      <p>Good for an inspection, a second opinion on a quote, or a roof you want looked at before storm season. Your details go to a local roofing company, which calls you back to arrange a visit.</p>
+      <form class="form" name="{{ site.forms.contact }}" method="POST" action="/contact/thanks/" data-netlify="true" netlify-honeypot="bot-field">
+        <input type="hidden" name="form-name" value="{{ site.forms.contact }}">
+        <p class="hp"><label>Leave empty <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+        <label>Your name <input name="name" required autocomplete="name"></label>
+        <label>Phone <input name="phone" type="tel" required autocomplete="tel"></label>
+        <label>City or ZIP code <input name="city" required></label>
+        <label>What do you need?
+          <select name="need" required>
+            <option value="">Choose one</option>
+            <option>Leak</option>
+            <option>Storm or hail damage</option>
+            <option>Roof inspection</option>
+            <option>Replacement quote</option>
+            <option>Second opinion on a quote</option>
+            <option>Something else</option>
+          </select>
+        </label>
+        <label>Anything else we should pass along? <textarea name="message" rows="4"></textarea></label>
+        <button class="btn btn--orange" type="submit">Send request</button>
+        <p class="form__note">Your details are passed only to the roofing company that will call you back. They are not sold. See the <a href="/privacy-policy.html">privacy policy</a> and <a href="/terms.html">terms</a>.</p>
+      </form>
+    </div>
+    {{ img('houston-roofer-ladder-at-gutter-inspection.jpg', 'Aluminum ladder leaning against the gutter of a single-story brick home with a gray shingle roof, a roofer at the base looking up', 1200, 800, desc='Wide cinematic landscape shot, subject positioned on right third of frame, well lit. An aluminum extension ladder leaning against the gutter of a single-story brick home with a gray shingle roof in a Houston neighborhood, a roofer in a work shirt and cap at the base seen from behind looking up at the roof edge, green lawn, bright morning sky. Realistic photo, no text, no logos, no house numbers, no recognizable faces.') }}
+  </div>
+  {{ m.disclosure() }}
+</section>
+{% endblock %}

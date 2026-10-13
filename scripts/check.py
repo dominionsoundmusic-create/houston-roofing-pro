@@ -294,8 +294,8 @@ def main():
         if url not in NO_EXTRAS:
             if not (3 <= visible_faq <= max_faq):
                 err(f"page needs 3 to 6 common questions, has {visible_faq}")
-            if 'id="faq-title">Common questions<' not in raw:
-                err("visible 'Common questions' block missing")
+            if 'id="faq-title">Questions Houston homeowners ask<' not in raw:
+                err("visible FAQ block missing")
             if faq_count == 0:
                 err("FAQPage JSON-LD missing")
         # headings order

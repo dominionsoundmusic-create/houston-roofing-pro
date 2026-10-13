@@ -1,0 +1,38 @@
+---
+type: page
+title: "Your Storm Claim Checklist Is Ready | Houston Expert Roofers"
+description: "Open the free two-page hail and storm damage roof claim checklist for Houston homeowners, and call the free line any hour if you need a roof inspection."
+h1: "Your Checklist Is Ready"
+crumb: "Checklist ready"
+noindex: true
+hero:
+  size: short
+  image: roof-04-hero.jpg
+  alt: "Roofer kneeling on a dark asphalt shingle roof looking across the slope on a sunny day"
+  lead: "Open the PDF, print it, and keep it somewhere you will find it after the next storm. Need a roof looked at now? Call the line at any hour."
+  secondary_label: "Open the checklist (PDF)"
+  secondary_href: "/files/houston-hail-storm-claim-checklist.pdf"
+cta: false
+faqs:
+  - q: "The PDF did not open. What now?"
+    a: "<p>Use the button on this page, <a href=\"/files/houston-hail-storm-claim-checklist.pdf\">open the checklist (PDF)</a>. Most phones and computers open it in the browser, and you can save or print it from there.</p>"
+  - q: "I asked for a roofer to call. What happens next?"
+    a: "<p>If you added your phone number, your details go to a local roofing company so it can call you about an inspection. When it calls depends on the company and the weather. You can also call the line yourself at any hour.</p>"
+  - q: "Where can I read more about storm claims?"
+    a: "<p>The <a href=\"/hail-damage-roof-insurance.html\">roof insurance claims guide</a> covers deductibles, actual cash value, deadlines and what a roofer may and may not do under Texas law.</p>"
+---
+{% block content %}
+<section class="prose">
+  <div class="split">
+    <div>
+      <h2>Open, save and print</h2>
+      <p class="lead">The checklist is two pages: what to do in the first hours, how to document damage, how deductibles and depreciation work, and how to hire safely.</p>
+      <p><a class="btn btn--orange btn--big" href="{{ site.business.checklist_pdf }}">Open the free checklist (PDF)</a></p>
+      <p>Need an inspection? <a href="tel:{{ site.business.phone_tel }}">Call {{ site.business.phone_display }}</a> any time and you will be put through to an independent, locally owned roofing company.</p>
+    </div>
+    {{ img('roof-03-card.jpg', 'Two roofers on a storm-damaged shingle roof of a white-sided house with a patch of torn shingles', 1200, 675) }}
+  </div>
+  {{ img('houston-printed-checklist-on-fridge.jpg', 'Printed two-page checklist held by a magnet on a kitchen refrigerator in a bright Houston home', 1200, 800, desc='Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Two printed pages held by a round magnet on the door of a white kitchen refrigerator in a bright Houston home, a window with daylight and a green plant beside it. Realistic photo, no readable text, no logos, no people.') }}
+  {{ m.disclosure() }}
+</section>
+{% endblock %}

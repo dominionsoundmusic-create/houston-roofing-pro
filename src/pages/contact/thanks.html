@@ -1,0 +1,42 @@
+---
+type: page
+title: "Request Received | Houston Expert Roofers"
+description: "Your roofing request was received and passed to a local roofing company for a call back. If water is coming in now, call the free Houston line any hour."
+h1: "Your Request Is on Its Way"
+crumb: "Request received"
+noindex: true
+hero:
+  size: short
+  image: roof-05-hero.jpg
+  alt: "Roofer sealing around a plumbing vent boot on an asphalt shingle roof in warm evening light"
+  lead: "Your details have been passed to an independent, locally owned roofing company, which will call you back. If anything changes or water starts coming in, call the line."
+  secondary_label: "Back to the home page"
+  secondary_href: "/"
+cta: false
+faqs:
+  - q: "When will the roofing company call?"
+    a: "<p>That depends on the company and on the weather; after a big storm every roofer in the region is busy. If you have not heard back and the problem is getting worse, call the line again at any hour.</p>"
+  - q: "What should I do while I wait?"
+    a: "<p>Stay off the roof. Move belongings away from any drip, put a bucket and towels under it, and photograph the damage from the ground and inside the house. If a storm caused it, call your insurer. The <a href=\"/what-to-do-after-roof-storm-damage/\">storm damage steps guide</a> covers the rest.</p>"
+  - q: "How do I get ready for the roofer's visit?"
+    a: "<p>Have your photos, your insurance policy and any claim number handy, and clear a path to the attic hatch so the roofer can look inside. Write down when the problem started. The <a href=\"/roof-inspection/\">roof inspection page</a> explains what a thorough visit covers.</p>"
+---
+{% block content %}
+<section class="prose">
+  <div class="split">
+    <div>
+      <h2>Thanks. Here is what happens next.</h2>
+      <p class="lead">A local roofing company has your name, number, city and what you need. It will call you to arrange a look at the roof.</p>
+      <ul class="checks">
+        <li>Ask whether there is a charge for the visit before it is booked; many roofers inspect at no charge, but policies differ.</li>
+        <li>Ask for photos of anything the roofer finds and a written, itemized estimate.</li>
+        <li>You are free to get other quotes before deciding.</li>
+      </ul>
+      <p><a class="btn btn--orange" href="tel:{{ site.business.phone_tel }}">{{ site.cta.primary_label }}</a></p>
+    </div>
+    {{ img('roof-04-card.jpg', 'Roofer kneeling on a dark shingle roof and looking across the slope during an inspection', 1200, 675) }}
+  </div>
+  {{ img('houston-attic-hatch-cleared-for-roofer.jpg', 'Open attic hatch in a hallway ceiling of a Houston home with a pull-down ladder and a clear floor below', 1200, 800, desc='Wide cinematic landscape shot, subject positioned on right third of frame, well lit. A bright hallway in a Houston home with a pull-down attic ladder lowered from an open ceiling hatch, a clear wood floor below, a window with daylight at the end of the hall. Realistic photo, no text, no logos, no people.') }}
+  {{ m.disclosure() }}
+</section>
+{% endblock %}
