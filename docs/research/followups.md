@@ -22,3 +22,7 @@ WebFetch/curl cannot reach outside sites here. These items need search budget in
 - LegiScan HB 3344 URL; Texas Property Code 202.011 URL
 - City of Katy registration ($200, $300,000 liability) and office details; StormerSite hail rows vs NOAA Storm Events
 - Houston media/10371 energy code PDF; Houston noise ordinance Chapter 30 daytime construction exemption
+- t4 (Tomball, Humble, Kingwood, Atascocita): facts tagged C/C* in docs/research/t4.md came from the water
+  damage site's fact-check notes; re-verify them first (Humble history, West Fork gauge 69.18 ft, "more than
+  16,000 homes near Lake Houston", Kingwood annexation and TIRZ 10, Tomball gas leak numbers, Eagle Springs and
+  Walden on Lake Houston as Atascocita subdivisions, Northpointe and Rosehill Reserve outside Tomball limits).
