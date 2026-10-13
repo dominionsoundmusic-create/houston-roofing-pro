@@ -75,8 +75,9 @@ Public agency numbers (CenterPoint, TDI, 311, a city permit office) are fine whe
 - Texas has NO state roofing license (`m.license_check()` says so, with HB 3344 of 2025 failing). Some
   cities require contractor registration or permits: research your city, do not assume.
 - TDI windstorm (use `m.windstorm_note()` on coastal pages): the designated catastrophe area is the 14
-  first-tier coastal counties (in greater Houston: Brazoria, Chambers, Galveston) plus La Porte, Morgan's
-  Point, Pasadena (east of SH 146), Seabrook and Shoreacres in Harris County. Roof work there must meet the
+  first-tier coastal counties (in greater Houston: Brazoria, Chambers, Galveston) plus, in Harris County,
+  Morgan's Point and the parts of La Porte, Pasadena, Seabrook and Shoreacres inside city limits and east
+  of SH 146 (TDI order 96-1468; west of SH 146 these cities are outside the program). Roof work there must meet the
   windstorm code and be inspected during installation; TDI issues a WPI-8 certificate of compliance, which
   TWIA uses for eligibility. Verify details for your town (for example, which part of a split city is in
   which county).
