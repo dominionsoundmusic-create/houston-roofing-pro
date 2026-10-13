@@ -85,3 +85,33 @@ decision below was made from INTAKE.md, CLAUDE.md and the keyword data, and can 
     drips, photograph from the ground and inside, stay away from downed lines and call CenterPoint, call the
     insurer). The old pages' "pierce a bulging ceiling" and "cut power at the breaker" advice was dropped.
 23. **No eyebrow labels**, no em or en dashes (the Duplantis credit dash is drawn by CSS), American spelling.
+
+## Decisions made during the run
+24. **Web search is capped at 200 calls per turn, shared by every agent, and WebFetch/curl cannot reach
+    outside sites in this environment.** The first writing turn ran out partway, so several writers stopped
+    rather than publish unsourced pages. The run continued across turns: a self-scheduled check-in started
+    a fresh turn, the 12 blocked town pages were written there with a per-writer search cap (36 each), and
+    the fact-check was split across two turns (core, services and guides first, then the 28 towns).
+25. **Shared FAQ heading is "Questions Houston homeowners ask"** (not "Common questions", which the sister
+    sites use). similarity.py ignores template headings next to excluded link lists, the FAQ block heading,
+    statute and agency names (for example "Texas Business and Commerce Code"), and the referral disclosure
+    INTAKE.md prescribes ("... is a free phone line, not a roofing contractor"). Everything else must share
+    no 8-word run with Water Damage Pro Houston or Houston Power Washing Pro; a cleanup pass reworded about
+    60 shared runs across 25 pages to get there.
+26. **Windstorm area wording (TDI order 96-1468):** in Harris County only Morgan's Point and the parts of
+    La Porte, Pasadena, Seabrook and Shoreacres inside city limits and east of SH 146 are designated. TDI
+    exempts repairs to less than 100 square feet of roof covering that do not touch the decking.
+27. **Electric utility per town.** The safety note names the utility to call about downed lines. It defaults
+    to CenterPoint Energy; pages served by another utility pass their own (Entergy Texas in The Woodlands,
+    Texas-New Mexico Power in Texas City and Alvin), and the town fact-check confirmed each town.
+28. **About page names Dominion Digital Group.** INTAKE.md says "do not name an owner"; this was read as a
+    person. INTAKE.md itself makes the site a d/b/a of Dominion Digital Group and the required footer names
+    it, so the About FAQ says the line is a d/b/a of that company and names no person.
+29. **Unenacted law removed.** The 2019 bill on out-of-area contractors (SB 985) was not shown to have passed,
+    so the storm and emergency pages cite current law instead (Business and Commerce Code Chapter 58: no
+    payment may be required before disaster repair work begins, written contract with the Chapter 58 notice).
+30. **Lifespans** on the lifespan guide come from InterNACHI's two estimated-life charts (standard and hot,
+    humid coastal), shown side by side with the source named, plus the NAHB summary. Rule 4 bars naming
+    another state, so the coastal chart is described by its climate, not its state.
+31. **The stop hook asked to push after every pause.** CLAUDE.md and Maurice's message say to push `build`
+    only when every check passes, so commits stayed local until the final checks passed.
