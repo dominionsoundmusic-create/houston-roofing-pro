@@ -1,5 +1,9 @@
 # Research follow-ups (coordinator list, Oct 13 2026)
 
+**Status Oct 13 2026: resolved.** All 12 blocked town pages were written in the second turn; the thin pages
+were deepened and every flagged claim below was checked by the independent fact-check (docs/fact-check.md,
+docs/fact-check/fc1.md to fc10.md), which confirmed, corrected, softened or removed it.
+
 The first writing turn hit the web search cap (200 searches per turn, shared by every agent), and
 WebFetch/curl cannot reach outside sites here. These items need search budget in a later turn.
 
